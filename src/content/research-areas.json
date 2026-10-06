@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3dgenpop",
+    "title": "3D Generation",
+    "category": "3D VISION",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/08/HumanGen2.png"
+  },
+  {
+    "id": "3dreconpop",
+    "title": "3D Reconstruction",
+    "category": "3D VISION",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/08/d-nerf.png"
+  },
+  {
+    "id": "3dunderstandpop",
+    "title": "3D Scene Understanding",
+    "category": "3D VISION",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/09/sceneunderstanding.png"
+  },
+  {
+    "id": "SLAMpop",
+    "title": "SLAM / Sensor Fusion",
+    "category": "Robot vision",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/08/mast3rslam-ezgif.com-video-to-gif-converter.gif"
+  },
+  {
+    "id": "PIApop",
+    "title": "3D Perception",
+    "category": "Robot vision",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/08/scene08_13_19-ezgif.com-crop.gif"
+  },
+  {
+    "id": "colabot",
+    "title": "Collaborative Robot",
+    "category": "Robot vision",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/09/graspnet.png"
+  }
+]

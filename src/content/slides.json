@@ -1,0 +1,146 @@
+{
+  "hero": [
+    {
+      "id": "hero-0",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/06/Homepage_main_teaser-2-pdf.jpg",
+      "alt": "Homepage main teaser 2 pdf.jpg"
+    },
+    {
+      "id": "hero-1",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/06/1_Home_slider-1-paper-4-pdf.jpg",
+      "alt": "1 Home slider 1 paper 4 pdf.jpg"
+    },
+    {
+      "id": "hero-2",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags-1.png",
+      "alt": "2026 From Corners to Fiducial Tags 1.png"
+    },
+    {
+      "id": "hero-3",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_LightSplat2-1.png",
+      "alt": "2026 LightSplat2 1.png"
+    },
+    {
+      "id": "hero-4",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/01/2025_DeformSplat.gif",
+      "alt": "2025 DeformSplat.gif"
+    },
+    {
+      "id": "hero-5",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/03/%EA%B7%B8%EB%A6%BC1222.png",
+      "alt": "그림1222.png"
+    },
+    {
+      "id": "hero-6",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/06/1_Home_slider-1-paper-1.gif",
+      "alt": "1 Home slider 1 paper 1.gif"
+    },
+    {
+      "id": "hero-7",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/01/2025_DITTO.gif",
+      "alt": "2025 DITTO.gif"
+    },
+    {
+      "id": "hero-8",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/01/2025_ContactGen.gif",
+      "alt": "2025 ContactGen.gif"
+    },
+    {
+      "id": "hero-9",
+      "imageSource": "http://unist.info/wp-content/uploads/2024/05/slider-RAL2024.png",
+      "alt": "slider RAL2024.png"
+    }
+  ],
+  "activities": [
+    {
+      "id": "activity-0",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/08/KCCV2026-1-pdf.jpg",
+      "alt": "KCCV2026 1 pdf.jpg"
+    },
+    {
+      "id": "activity-1",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/06/CVPR_2026-pdf.jpg",
+      "alt": "CVPR 2026 pdf.jpg"
+    },
+    {
+      "id": "activity-2",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/06/ICRA_2026_revised-pdf.jpg",
+      "alt": "ICRA 2026 revised pdf.jpg"
+    },
+    {
+      "id": "activity-3",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_spring_picnic-1-pdf.jpg",
+      "alt": "2026 spring picnic 1 pdf.jpg"
+    },
+    {
+      "id": "activity-4",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/03/2026_WACV-1-pdf.jpg",
+      "alt": "2026 WACV 1 pdf.jpg"
+    },
+    {
+      "id": "activity-5",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/03/2026_Graduation-Ceremony-3-pdf.jpg",
+      "alt": "2026 Graduation Ceremony 3 pdf.jpg"
+    },
+    {
+      "id": "activity-6",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/03/1_Home_slider-2-events-pdf.jpg",
+      "alt": "1 Home slider 2 events pdf.jpg"
+    },
+    {
+      "id": "activity-7",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/02/IPIU26-1-pdf.jpg",
+      "alt": "IPIU26 1 pdf.jpg"
+    },
+    {
+      "id": "activity-8",
+      "imageSource": "http://unist.info/wp-content/uploads/2026/01/2025_SIGGRAPH_ASIA-pdf.jpg",
+      "alt": "2025 SIGGRAPH ASIA pdf.jpg"
+    },
+    {
+      "id": "activity-9",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/11/2025_ICCV-pdf.jpg",
+      "alt": "2025 ICCV pdf.jpg"
+    },
+    {
+      "id": "activity-10",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/11/2025_IROS-pdf.jpg",
+      "alt": "2025 IROS pdf.jpg"
+    },
+    {
+      "id": "activity-11",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/06/%EA%B7%B8%EB%A6%BC4-scaled.png",
+      "alt": "그림4 scaled.png"
+    },
+    {
+      "id": "activity-12",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/06/icra2025-1-scaled.png",
+      "alt": "icra2025 1 scaled.png"
+    },
+    {
+      "id": "activity-13",
+      "imageSource": "http://unist.info/wp-content/uploads/2025/02/20250218224922-2.png",
+      "alt": "20250218224922 2.png"
+    },
+    {
+      "id": "activity-14",
+      "imageSource": "http://unist.info/wp-content/uploads/2024/10/events_2024KCCV-5-pdf.jpg",
+      "alt": "events 2024KCCV 5 pdf.jpg"
+    },
+    {
+      "id": "activity-15",
+      "imageSource": "http://unist.info/wp-content/uploads/2024/06/slider-CVPR2024-conf.png",
+      "alt": "slider CVPR2024 conf.png"
+    },
+    {
+      "id": "activity-16",
+      "imageSource": "http://unist.info/wp-content/uploads/2024/04/slider-outstanding-faculty-2024.png",
+      "alt": "slider outstanding faculty 2024.png"
+    },
+    {
+      "id": "activity-17",
+      "imageSource": "http://unist.info/wp-content/uploads/2024/02/slider-graduation2024.png",
+      "alt": "slider graduation2024.png"
+    }
+  ]
+}

@@ -1,0 +1,2325 @@
+{
+  "/wp-content/uploads/2025/01/연구실new로고.png": {
+    "path": "/lab-media/705bba54ee8de474.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/01/%EC%97%B0%EA%B5%AC%EC%8B%A4new%EB%A1%9C%EA%B3%A0.png",
+    "width": 925,
+    "height": 290,
+    "animated": false,
+    "bytes": 16152,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/Homepage_main_teaser-2-pdf.jpg": {
+    "path": "/lab-media/7c9ddc9f6419e18f.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/Homepage_main_teaser-2-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 76414,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/KCCV2026-1-pdf.jpg": {
+    "path": "/lab-media/55aba2d238880283.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/KCCV2026-1-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 98328,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/1_Home_slider-1-paper-4-pdf.jpg": {
+    "path": "/lab-media/48d7d55dd5d22501.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/1_Home_slider-1-paper-4-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 71700,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags-1.png": {
+    "path": "/lab-media/fddbf3e136ca9013.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags-1.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 95106,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_LightSplat2-1.png": {
+    "path": "/lab-media/6f736bba79216087.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_LightSplat2-1.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 74646,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/2025_DeformSplat.gif": {
+    "path": "/lab-media/85c0f5bcd36113a1.mp4",
+    "source": "https://unist.info/wp-content/uploads/2026/01/2025_DeformSplat.gif",
+    "width": 960,
+    "height": 480,
+    "animated": true,
+    "bytes": 223101,
+    "poster": "/lab-media/85c0f5bcd36113a1-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2025/03/그림1222.png": {
+    "path": "/lab-media/e3165cfb3c542238.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/03/%EA%B7%B8%EB%A6%BC1222.png",
+    "width": 1200,
+    "height": 594,
+    "animated": false,
+    "bytes": 112958,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/2025_ContactGen.gif": {
+    "path": "/lab-media/7e485cf806f1d551.mp4",
+    "source": "https://unist.info/wp-content/uploads/2026/01/2025_ContactGen.gif",
+    "width": 960,
+    "height": 480,
+    "animated": true,
+    "bytes": 459875,
+    "poster": "/lab-media/7e485cf806f1d551-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2026/01/2025_DITTO.gif": {
+    "path": "/lab-media/2d13366d0efd0d9e.mp4",
+    "source": "https://unist.info/wp-content/uploads/2026/01/2025_DITTO.gif",
+    "width": 960,
+    "height": 480,
+    "animated": true,
+    "bytes": 771168,
+    "poster": "/lab-media/2d13366d0efd0d9e-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2024/05/slider-RAL2024.png": {
+    "path": "/lab-media/fd1564ac54711521.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/05/slider-RAL2024.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 104660,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/ICRA_2026_revised-pdf.jpg": {
+    "path": "/lab-media/524e5210c305360e.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/ICRA_2026_revised-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 91098,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/CVPR_2026-pdf.jpg": {
+    "path": "/lab-media/8498db5a39f6df68.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/CVPR_2026-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 117736,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/2026_WACV-1-pdf.jpg": {
+    "path": "/lab-media/8b08384f5898ecbc.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/2026_WACV-1-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 97116,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/1_Home_slider-2-events-pdf.jpg": {
+    "path": "/lab-media/562f4883fab2fcbc.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/1_Home_slider-2-events-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 62558,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/IPIU26-1-pdf.jpg": {
+    "path": "/lab-media/24fffe21211787da.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/IPIU26-1-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 62232,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/2026_Graduation-Ceremony-3-pdf.jpg": {
+    "path": "/lab-media/e5c9b828fd522ed4.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/2026_Graduation-Ceremony-3-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 114316,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_spring_picnic-1-pdf.jpg": {
+    "path": "/lab-media/91813a64c55f4f49.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_spring_picnic-1-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 128658,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/2025_SIGGRAPH_ASIA-pdf.jpg": {
+    "path": "/lab-media/cb3fb82ae754483b.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/01/2025_SIGGRAPH_ASIA-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 48724,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/11/2025_ICCV-pdf.jpg": {
+    "path": "/lab-media/b24d5b0cb9f5846a.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/11/2025_ICCV-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 114122,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/11/2025_IROS-pdf.jpg": {
+    "path": "/lab-media/94309ba5719d82a4.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/11/2025_IROS-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 96030,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/그림4-scaled.png": {
+    "path": "/lab-media/abc83f727f98e30b.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/%EA%B7%B8%EB%A6%BC4-scaled.png",
+    "width": 1200,
+    "height": 598,
+    "animated": false,
+    "bytes": 119238,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/icra2025-1-scaled.png": {
+    "path": "/lab-media/4a77540941095bc2.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/icra2025-1-scaled.png",
+    "width": 1200,
+    "height": 601,
+    "animated": false,
+    "bytes": 92158,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/02/20250218224922-2.png": {
+    "path": "/lab-media/f9c7e911b0e028f3.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/02/20250218224922-2.png",
+    "width": 1200,
+    "height": 594,
+    "animated": false,
+    "bytes": 46900,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/10/events_2024KCCV-5-pdf.jpg": {
+    "path": "/lab-media/4835520615a3f4c0.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/10/events_2024KCCV-5-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 99270,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/04/slider-outstanding-faculty-2024.png": {
+    "path": "/lab-media/fec3c9ec56825735.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/04/slider-outstanding-faculty-2024.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 54104,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/06/slider-CVPR2024-conf.png": {
+    "path": "/lab-media/a02f9b212cd43d67.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/06/slider-CVPR2024-conf.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 118406,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/02/slider-graduation2024.png": {
+    "path": "/lab-media/67cd905cddbdfd2e.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/02/slider-graduation2024.png",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 98844,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/강창우.png": {
+    "path": "/lab-media/86c89e1a0d9d4570.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EA%B0%95%EC%B0%BD%EC%9A%B0.png",
+    "width": 354,
+    "height": 354,
+    "animated": false,
+    "bytes": 6036,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/심재혁.png": {
+    "path": "/lab-media/984fd616d9d6f854.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%8B%AC%EC%9E%AC%ED%98%81.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 21416,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/07/이인하1-1.png": {
+    "path": "/lab-media/1dbe88056fc0cd4e.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/07/%EC%9D%B4%EC%9D%B8%ED%95%981-1.png",
+    "width": 404,
+    "height": 404,
+    "animated": false,
+    "bytes": 9614,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/조경수.png": {
+    "path": "/lab-media/78a82a1569336269.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%A1%B0%EA%B2%BD%EC%88%98.png",
+    "width": 998,
+    "height": 1000,
+    "animated": false,
+    "bytes": 19504,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/이종성.png": {
+    "path": "/lab-media/5d230b6016beff89.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%9D%B4%EC%A2%85%EC%84%B1.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 16126,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/박상준.png": {
+    "path": "/lab-media/3c07e6178167bc49.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EB%B0%95%EC%83%81%EC%A4%80.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 15390,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/박현규.png": {
+    "path": "/lab-media/429f91c3ae6de13c.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EB%B0%95%ED%98%84%EA%B7%9C.png",
+    "width": 472,
+    "height": 472,
+    "animated": false,
+    "bytes": 8760,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/김준수.png": {
+    "path": "/lab-media/7c52b9157e4e06e2.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EA%B9%80%EC%A4%80%EC%88%98.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 11156,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/이준희.png": {
+    "path": "/lab-media/3db244ae9bc1bf74.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%9D%B4%EC%A4%80%ED%9D%AC.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 13066,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/전영우.png": {
+    "path": "/lab-media/fb2c96bbf1fbf823.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%A0%84%EC%98%81%EC%9A%B0.png",
+    "width": 708,
+    "height": 710,
+    "animated": false,
+    "bytes": 9788,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/이정언.png": {
+    "path": "/lab-media/3a0401a008006c78.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%9D%B4%EC%A0%95%EC%96%B8.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 13130,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/박유진.png": {
+    "path": "/lab-media/58a017b1ad9265d4.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EB%B0%95%EC%9C%A0%EC%A7%84.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 18722,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/방재훈.png": {
+    "path": "/lab-media/9656b82f3b65b1a1.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EB%B0%A9%EC%9E%AC%ED%9B%88.png",
+    "width": 1002,
+    "height": 1000,
+    "animated": false,
+    "bytes": 16752,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/김민지.png": {
+    "path": "/lab-media/ab2471712e105a49.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EA%B9%80%EB%AF%BC%EC%A7%80.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 28342,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/문채은.jpg": {
+    "path": "/lab-media/85fd95c076366ee6.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/%EB%AC%B8%EC%B1%84%EC%9D%80.jpg",
+    "width": 480,
+    "height": 480,
+    "animated": false,
+    "bytes": 13778,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/이강현.png": {
+    "path": "/lab-media/87b460df6d155b68.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%9D%B4%EA%B0%95%ED%98%84.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 10238,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/정승헌.png": {
+    "path": "/lab-media/c75abf697e995ebf.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%A0%95%EC%8A%B9%ED%97%8C.png",
+    "width": 708,
+    "height": 708,
+    "animated": false,
+    "bytes": 23130,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/최인혁.png": {
+    "path": "/lab-media/b385f2ec1d4f36a9.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%B5%9C%EC%9D%B8%ED%98%81.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 18854,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/류태훈.png": {
+    "path": "/lab-media/058cb5ebc9223817.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EB%A5%98%ED%83%9C%ED%9B%88.png",
+    "width": 710,
+    "height": 710,
+    "animated": false,
+    "bytes": 14160,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/서승현.png": {
+    "path": "/lab-media/6e8e4459ba29b60d.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%84%9C%EC%8A%B9%ED%98%84.png",
+    "width": 998,
+    "height": 1000,
+    "animated": false,
+    "bytes": 20230,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/이찬우.png": {
+    "path": "/lab-media/ac60db9d56a76cfd.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/%EC%9D%B4%EC%B0%AC%EC%9A%B0.png",
+    "width": 998,
+    "height": 1000,
+    "animated": false,
+    "bytes": 24318,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/오주한-1.png": {
+    "path": "/lab-media/9b158315a8fe83d6.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/%EC%98%A4%EC%A3%BC%ED%95%9C-1.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 24376,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/정동재.jpg": {
+    "path": "/lab-media/233b1ed9d8a61d8a.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/%EC%A0%95%EB%8F%99%EC%9E%AC.jpg",
+    "width": 999,
+    "height": 999,
+    "animated": false,
+    "bytes": 24208,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/이아론.jpg": {
+    "path": "/lab-media/79fd96b6dfa3aa89.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/%EC%9D%B4%EC%95%84%EB%A1%A0.jpg",
+    "width": 480,
+    "height": 480,
+    "animated": false,
+    "bytes": 7718,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/두동규.jpg": {
+    "path": "/lab-media/6e5d37501f75b97a.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/%EB%91%90%EB%8F%99%EA%B7%9C.jpg",
+    "width": 480,
+    "height": 480,
+    "animated": false,
+    "bytes": 8066,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/이세빈.jpg": {
+    "path": "/lab-media/202305a77c34bbdf.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/%EC%9D%B4%EC%84%B8%EB%B9%88.jpg",
+    "width": 480,
+    "height": 480,
+    "animated": false,
+    "bytes": 9842,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/이정환.jpg": {
+    "path": "/lab-media/96409f24ff43f7be.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/%EC%9D%B4%EC%A0%95%ED%99%98.jpg",
+    "width": 480,
+    "height": 480,
+    "animated": false,
+    "bytes": 10652,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/김선영.png": {
+    "path": "/lab-media/5851ece33efafe5a.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/%EA%B9%80%EC%84%A0%EC%98%81.png",
+    "width": 996,
+    "height": 1000,
+    "animated": false,
+    "bytes": 38350,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-11.34.49-AM.png": {
+    "path": "/lab-media/755904a9aaed6f04.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-11.34.49-AM.png",
+    "width": 720,
+    "height": 366,
+    "animated": false,
+    "bytes": 12538,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/09/Iros26_workshop-pdf.jpg": {
+    "path": "/lab-media/6ca2df2f10a89aed.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/09/Iros26_workshop-pdf.jpg",
+    "width": 958,
+    "height": 756,
+    "animated": false,
+    "bytes": 45404,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/09/Eccv26_workshop2-pdf.jpg": {
+    "path": "/lab-media/d3c4b2ebccdd1de1.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/09/Eccv26_workshop2-pdf.jpg",
+    "width": 950,
+    "height": 1000,
+    "animated": false,
+    "bytes": 55724,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/08/26_2_members-1-pdf.jpg": {
+    "path": "/lab-media/99e36f01da88ac40.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/08/26_2_members-1-pdf.jpg",
+    "width": 1200,
+    "height": 381,
+    "animated": false,
+    "bytes": 21174,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/RGMC-pdf.jpg": {
+    "path": "/lab-media/64a64f075b85a467.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/RGMC-pdf.jpg",
+    "width": 1200,
+    "height": 488,
+    "animated": false,
+    "bytes": 43876,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/teaser-1-pdf.jpg": {
+    "path": "/lab-media/4683f311758c6fa8.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/teaser-1-pdf.jpg",
+    "width": 1200,
+    "height": 434,
+    "animated": false,
+    "bytes": 49584,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026-1-pdf.jpg": {
+    "path": "/lab-media/4963331777fad426.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026-1-pdf.jpg",
+    "width": 454,
+    "height": 202,
+    "animated": false,
+    "bytes": 6324,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/cvpr26_logo-pdf.jpg": {
+    "path": "/lab-media/fa9b1dbb10adc76c.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/cvpr26_logo-pdf.jpg",
+    "width": 1200,
+    "height": 816,
+    "animated": false,
+    "bytes": 105184,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/PCEG_teaser-pdf.jpg": {
+    "path": "/lab-media/2103bf7fb3f3bdd5.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/PCEG_teaser-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 29550,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/10/deformsplat_news-pdf.jpg": {
+    "path": "/lab-media/4f59400bb4c1f994.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/10/deformsplat_news-pdf.jpg",
+    "width": 1200,
+    "height": 729,
+    "animated": false,
+    "bytes": 67280,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/2025-2-pdf.jpg": {
+    "path": "/lab-media/4402eec6fe7e8bac.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/2025-2-pdf.jpg",
+    "width": 1200,
+    "height": 476,
+    "animated": false,
+    "bytes": 26488,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/07/IROS25_VPOcc-pdf.jpg": {
+    "path": "/lab-media/fd5cb3b7d2d173ea.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/07/IROS25_VPOcc-pdf.jpg",
+    "width": 1200,
+    "height": 685,
+    "animated": false,
+    "bytes": 70806,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/4_Research_1-project-teaser_250528-기초연구실.png": {
+    "path": "/lab-media/b77b4f0b62ee83f8.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/4_Research_1-project-teaser_250528-%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%8B%A4.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 48456,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/ijcv_dogrecon.png": {
+    "path": "/lab-media/d87b6c3f475ba6ed.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/ijcv_dogrecon-980x482.png",
+    "width": 980,
+    "height": 482,
+    "animated": false,
+    "bytes": 26114,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/AI_tech_수상-pdf.jpg": {
+    "path": "/lab-media/9847085b58820d0a.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/AI_tech_%EC%88%98%EC%83%81-pdf.jpg",
+    "width": 554,
+    "height": 227,
+    "animated": false,
+    "bytes": 11842,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/10/ACCV2024_News-4-pdf.jpg": {
+    "path": "/lab-media/c054197f7b78b2c6.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/10/ACCV2024_News-4-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 80124,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/11/2024RA-L_News2-pdf.jpg": {
+    "path": "/lab-media/64eed558848a841f.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/11/2024RA-L_News2-pdf.jpg",
+    "width": 1200,
+    "height": 851,
+    "animated": false,
+    "bytes": 103378,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/중견-연구-pdf.jpg": {
+    "path": "/lab-media/0e4cf86cbb17da1d.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/%EC%A4%91%EA%B2%AC-%EC%97%B0%EA%B5%AC-pdf.jpg",
+    "width": 1200,
+    "height": 671,
+    "animated": false,
+    "bytes": 54284,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/그림1.png": {
+    "path": "/lab-media/93e496457ffc48f7.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EA%B7%B8%EB%A6%BC1.png",
+    "width": 684,
+    "height": 312,
+    "animated": false,
+    "bytes": 15994,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/02/RVI-로고-세로.png": {
+    "path": "/lab-media/dab59ee0182c6abe.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/02/RVI-%EB%A1%9C%EA%B3%A0-%EC%84%B8%EB%A1%9C.png",
+    "width": 720,
+    "height": 720,
+    "animated": false,
+    "bytes": 16640,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/SlaBins_mainpage하단그림_v2.png": {
+    "path": "/lab-media/b1a32d1ef507dcd1.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/SlaBins_mainpage%ED%95%98%EB%8B%A8%EA%B7%B8%EB%A6%BC_v2.png",
+    "width": 665,
+    "height": 1000,
+    "animated": false,
+    "bytes": 46362,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/05/20250527100948.png": {
+    "path": "/lab-media/191fcc175aea0003.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/05/20250527100948.png",
+    "width": 1200,
+    "height": 554,
+    "animated": false,
+    "bytes": 73918,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/02/ral2024-AiSDF-teaser.png": {
+    "path": "/lab-media/44d2ddb1522b834f.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/02/ral2024-AiSDF-teaser.png",
+    "width": 680,
+    "height": 567,
+    "animated": false,
+    "bytes": 30942,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/11/ral2023-teaser.png": {
+    "path": "/lab-media/095d4f83d83a9d93.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/11/ral2023-teaser.png",
+    "width": 1200,
+    "height": 487,
+    "animated": false,
+    "bytes": 41884,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/03/ICRA2021-jschoe.png": {
+    "path": "/lab-media/93275b63cbf61111.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/03/ICRA2021-jschoe.png",
+    "width": 1200,
+    "height": 837,
+    "animated": false,
+    "bytes": 118228,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/02/RAL-ICRA2021-jschoe.png": {
+    "path": "/lab-media/f2d752f3be0c3dc4.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/02/RAL-ICRA2021-jschoe.png",
+    "width": 1200,
+    "height": 469,
+    "animated": false,
+    "bytes": 60994,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/ijcv_dogrecon-scaled.png": {
+    "path": "/lab-media/0780c015ffc60632.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/ijcv_dogrecon-scaled.png",
+    "width": 1200,
+    "height": 591,
+    "animated": false,
+    "bytes": 34872,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/07/University_of_Texas_at_Austin_seal.svg_.png": {
+    "path": "/lab-media/ea27d9e36e9b661b.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/07/University_of_Texas_at_Austin_seal.svg_.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 108162,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/07/IEEE-RAS-Logo.png": {
+    "path": "/lab-media/edb075fdcd3fc660.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/07/IEEE-RAS-Logo.png",
+    "width": 734,
+    "height": 667,
+    "animated": false,
+    "bytes": 22596,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/07/IMG_6274-1.jpg": {
+    "path": "/lab-media/7d189c4dc6283b4d.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/07/IMG_6274-1.jpg",
+    "width": 1004,
+    "height": 655,
+    "animated": false,
+    "bytes": 11640,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/07/Korea_Student_Aid_Foundation_logo.svg_.webp": {
+    "path": "/lab-media/cc120f1f06827759.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/07/Korea_Student_Aid_Foundation_logo.svg_.webp",
+    "width": 960,
+    "height": 199,
+    "animated": false,
+    "bytes": 14158,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/07/ECCV_2026_Logo.png": {
+    "path": "/lab-media/3ddabd0c1f8127eb.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/07/ECCV_2026_Logo.png",
+    "width": 544,
+    "height": 246,
+    "animated": false,
+    "bytes": 12210,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-2.03.43-PM.png": {
+    "path": "/lab-media/72e0e8ba0f9cd50d.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-2.03.43-PM.png",
+    "width": 1200,
+    "height": 922,
+    "animated": false,
+    "bytes": 72952,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-3.04.24-PM.png": {
+    "path": "/lab-media/a40a5933fe06f704.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/Screenshot-2026-05-24-at-3.04.24-PM.png",
+    "width": 1169,
+    "height": 1000,
+    "animated": false,
+    "bytes": 29400,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/cmu.jpg": {
+    "path": "/lab-media/b1fa186b04672d86.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/cmu.jpg",
+    "width": 400,
+    "height": 400,
+    "animated": false,
+    "bytes": 9138,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/lgresearch.jpg": {
+    "path": "/lab-media/808b907935d74de6.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/lgresearch.jpg",
+    "width": 1200,
+    "height": 630,
+    "animated": false,
+    "bytes": 7954,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/03/Adobe-logo.png": {
+    "path": "/lab-media/8b1e5fa457199744.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/03/Adobe-logo.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 18112,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/IBMSAward.jpg": {
+    "path": "/lab-media/3e445b8aaccea427.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/IBMSAward.jpg",
+    "width": 1200,
+    "height": 900,
+    "animated": false,
+    "bytes": 75058,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-2.33.16-PM.png": {
+    "path": "/lab-media/6b77607f8c431f9c.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-2.33.16-PM.png",
+    "width": 1200,
+    "height": 928,
+    "animated": false,
+    "bytes": 52872,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/tucson-main.jpg": {
+    "path": "/lab-media/6df2708b345eed9a.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/tucson-main.jpg",
+    "width": 512,
+    "height": 341,
+    "animated": false,
+    "bytes": 33852,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/images.png": {
+    "path": "/lab-media/7f14932e5718f2de.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/01/images.png",
+    "width": 334,
+    "height": 151,
+    "animated": false,
+    "bytes": 7170,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/CVPR_Denver_2026.jpg": {
+    "path": "/lab-media/9046d1b19f21634c.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/CVPR_Denver_2026.jpg",
+    "width": 900,
+    "height": 604,
+    "animated": false,
+    "bytes": 95102,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/07/NTU_Logo-scaled.png": {
+    "path": "/lab-media/86f7915d24043fa2.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/07/NTU_Logo-scaled.png",
+    "width": 1200,
+    "height": 431,
+    "animated": false,
+    "bytes": 73480,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/10/iccv_honolulu.jpg": {
+    "path": "/lab-media/609998fba625cc3c.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/10/iccv_honolulu.jpg",
+    "width": 600,
+    "height": 400,
+    "animated": false,
+    "bytes": 55666,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/03/HUSH_Lab_homepage_bottom_slide-1.jpg": {
+    "path": "/lab-media/686985243eb9b207.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/03/HUSH_Lab_homepage_bottom_slide-1.jpg",
+    "width": 1200,
+    "height": 915,
+    "animated": false,
+    "bytes": 53050,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/02/2025-1.png": {
+    "path": "/lab-media/3e689096b2471ad5.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/02/2025-1.png",
+    "width": 820,
+    "height": 275,
+    "animated": false,
+    "bytes": 11580,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/02/IMG_9571-2.png": {
+    "path": "/lab-media/dab8260b5ad03537.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/02/IMG_9571-2.png",
+    "width": 1200,
+    "height": 788,
+    "animated": false,
+    "bytes": 73560,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/01/toronto_logo.png": {
+    "path": "/lab-media/5e656addf699afce.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/01/toronto_logo.png",
+    "width": 351,
+    "height": 144,
+    "animated": false,
+    "bytes": 6312,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/06/cse-dataset-workshop.png": {
+    "path": "/lab-media/3a916bbc71a92389.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/06/cse-dataset-workshop.png",
+    "width": 1200,
+    "height": 567,
+    "animated": false,
+    "bytes": 44950,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/07/IMG_6274-1.jpg": {
+    "path": "/lab-media/524122c79453a009.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/07/IMG_6274-1.jpg",
+    "width": 1004,
+    "height": 655,
+    "animated": false,
+    "bytes": 11640,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/harvard-university8762.jpg": {
+    "path": "/lab-media/097e3eb05b67b5a5.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/harvard-university8762.jpg",
+    "width": 866,
+    "height": 650,
+    "animated": false,
+    "bytes": 10922,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/06/cmu-intern.png": {
+    "path": "/lab-media/2eb39a60bcb3dcf9.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/06/cmu-intern.png",
+    "width": 1200,
+    "height": 259,
+    "animated": false,
+    "bytes": 15204,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/04/IMG_3860.jpg": {
+    "path": "/lab-media/425344ba6b65bcc2.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/04/IMG_3860.jpg",
+    "width": 1200,
+    "height": 901,
+    "animated": false,
+    "bytes": 88490,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/05/CVPR2024.jpg": {
+    "path": "/lab-media/ef1deb872ec14d96.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/05/CVPR2024.jpg",
+    "width": 612,
+    "height": 314,
+    "animated": false,
+    "bytes": 44136,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/2_News_1-newmembers-2024-2.png": {
+    "path": "/lab-media/b1b90eaed2409378.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/2_News_1-newmembers-2024-2.png",
+    "width": 720,
+    "height": 306,
+    "animated": false,
+    "bytes": 10978,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/07/cv4animals.png": {
+    "path": "/lab-media/209eb1eb108f46e0.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/07/cv4animals.png",
+    "width": 1200,
+    "height": 518,
+    "animated": false,
+    "bytes": 33196,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/03/qualitative_video_for_github_square-1.gif": {
+    "path": "/lab-media/620829a3733c02ee.mp4",
+    "source": "https://unist.info/wp-content/uploads/2024/03/qualitative_video_for_github_square-1.gif",
+    "width": 480,
+    "height": 480,
+    "animated": true,
+    "bytes": 379484,
+    "poster": "/lab-media/620829a3733c02ee-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2024/02/2024-1.png": {
+    "path": "/lab-media/14a9a59ef1f1d901.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/02/2024-1.png",
+    "width": 238,
+    "height": 151,
+    "animated": false,
+    "bytes": 2438,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/01/42dot-logo.png": {
+    "path": "/lab-media/a63da27b59096a40.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/01/42dot-logo.png",
+    "width": 1200,
+    "height": 329,
+    "animated": false,
+    "bytes": 9628,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/02/news-ipiu2024.png": {
+    "path": "/lab-media/3cfe3f381cf90ad7.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/02/news-ipiu2024.png",
+    "width": 945,
+    "height": 720,
+    "animated": false,
+    "bytes": 41866,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/09/2023-2.png": {
+    "path": "/lab-media/3a62ddab7820f7e6.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/09/2023-2.png",
+    "width": 340,
+    "height": 151,
+    "animated": false,
+    "bytes": 6486,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/10/ICCV2023_outstanding_reviewers.jpeg": {
+    "path": "/lab-media/051551429ced0a83.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/10/ICCV2023_outstanding_reviewers.jpeg",
+    "width": 1200,
+    "height": 828,
+    "animated": false,
+    "bytes": 76280,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/12/AAAI2024-news.png": {
+    "path": "/lab-media/73ac82a9e9418132.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/12/AAAI2024-news.png",
+    "width": 828,
+    "height": 1000,
+    "animated": false,
+    "bytes": 49934,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/12/ICASSP2024-news.png": {
+    "path": "/lab-media/d51da0b5651c5693.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/12/ICASSP2024-news.png",
+    "width": 993,
+    "height": 1000,
+    "animated": false,
+    "bytes": 53756,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/08/2022-2.png": {
+    "path": "/lab-media/336dadd3a93cb5d8.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/08/2022-2.png",
+    "width": 238,
+    "height": 151,
+    "animated": false,
+    "bytes": 3892,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/02/2023-1.png": {
+    "path": "/lab-media/2c54f96140e802e3.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/02/2023-1.png",
+    "width": 454,
+    "height": 151,
+    "animated": false,
+    "bytes": 6968,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/05/tpami2023-HKW-teaser-v1.png": {
+    "path": "/lab-media/036fd364b36739bf.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/05/tpami2023-HKW-teaser-v1.png",
+    "width": 637,
+    "height": 605,
+    "animated": false,
+    "bytes": 35194,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/03/cvpr2023-news.png": {
+    "path": "/lab-media/27fa4f4737d3b580.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/03/cvpr2023-news.png",
+    "width": 245,
+    "height": 248,
+    "animated": false,
+    "bytes": 10982,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/02/ral2022-teaser-v2.png": {
+    "path": "/lab-media/f0993ee9cce920b2.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/02/ral2022-teaser-v2.png",
+    "width": 637,
+    "height": 454,
+    "animated": false,
+    "bytes": 31902,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/02/2022-1.png": {
+    "path": "/lab-media/f1795068479a2d38.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/02/2022-1.png",
+    "width": 558,
+    "height": 151,
+    "animated": false,
+    "bytes": 12568,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/11/aaai2023-news.png": {
+    "path": "/lab-media/078f7e96c86e59af.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/11/aaai2023-news.png",
+    "width": 637,
+    "height": 605,
+    "animated": false,
+    "bytes": 27540,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/09/mpi2022-news.png": {
+    "path": "/lab-media/b540990bcd91f165.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/09/mpi2022-news.png",
+    "width": 1200,
+    "height": 800,
+    "animated": false,
+    "bytes": 51786,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/08/2021-2.png": {
+    "path": "/lab-media/b9bdbdea9aa6937f.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/08/2021-2.png",
+    "width": 454,
+    "height": 151,
+    "animated": false,
+    "bytes": 8386,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/10/BMVC2021-news.png": {
+    "path": "/lab-media/a08e349b4ed48ba2.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/10/BMVC2021-news.png",
+    "width": 1200,
+    "height": 538,
+    "animated": false,
+    "bytes": 38694,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/08/tpami2021-slam-news.png": {
+    "path": "/lab-media/84423a8431ac6b42.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/08/tpami2021-slam-news.png",
+    "width": 637,
+    "height": 605,
+    "animated": false,
+    "bytes": 29488,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/08/ICCV2021_haoang-1.png": {
+    "path": "/lab-media/61cf5712b7280a25.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/08/ICCV2021_haoang-1.png",
+    "width": 621,
+    "height": 454,
+    "animated": false,
+    "bytes": 33006,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/01/ijcv2022-news.png": {
+    "path": "/lab-media/5733d4c4d70bbb4f.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/01/ijcv2022-news.png",
+    "width": 637,
+    "height": 605,
+    "animated": false,
+    "bytes": 29170,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/Kyungdon_passport.jpg": {
+    "path": "/lab-media/b51c248aa07267fa.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/Kyungdon_passport.jpg",
+    "width": 600,
+    "height": 600,
+    "animated": false,
+    "bytes": 16144,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/03/2021spring.jpg": {
+    "path": "/lab-media/bfa437cefeeea2d7.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/03/2021spring.jpg",
+    "width": 1200,
+    "height": 797,
+    "animated": false,
+    "bytes": 37410,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/05/TPAMI2021_kdjoo_selfie.png": {
+    "path": "/lab-media/922d6fbd516f5a52.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/05/TPAMI2021_kdjoo_selfie.png",
+    "width": 756,
+    "height": 605,
+    "animated": false,
+    "bytes": 57766,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/thumbnail_publication-pdf.jpg": {
+    "path": "/lab-media/1204dd61004d957b.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/thumbnail_publication-pdf.jpg",
+    "width": 1200,
+    "height": 622,
+    "animated": false,
+    "bytes": 77128,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/KakaoTalk_20260629_215636745.png": {
+    "path": "/lab-media/448679ca5a6bdb1d.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/KakaoTalk_20260629_215636745.png",
+    "width": 1200,
+    "height": 740,
+    "animated": false,
+    "bytes": 55920,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/unisimslam_public-1-pdf.jpg": {
+    "path": "/lab-media/9163b116ccec9da8.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/unisimslam_public-1-pdf.jpg",
+    "width": 1008,
+    "height": 504,
+    "animated": false,
+    "bytes": 61294,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/06/Homepage_publication-pdf.jpg": {
+    "path": "/lab-media/21310fc0d9148d02.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/06/Homepage_publication-pdf.jpg",
+    "width": 1200,
+    "height": 600,
+    "animated": false,
+    "bytes": 60566,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/PCEG_teaser-1-pdf.jpg": {
+    "path": "/lab-media/c13770d22b1abbcc.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/PCEG_teaser-1-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 29550,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/teasor_for_homepage-pdf.jpg": {
+    "path": "/lab-media/e88d729ad53b4f7f.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/teasor_for_homepage-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 35498,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/anybald_teaser-pdf.jpg": {
+    "path": "/lab-media/1c37299a2358ed53.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/anybald_teaser-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 66996,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/teasor_lighthousegs-pdf.jpg": {
+    "path": "/lab-media/bf0e630c29e739e6.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/teasor_lighthousegs-pdf.jpg",
+    "width": 1200,
+    "height": 542,
+    "animated": false,
+    "bytes": 54372,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/teasor_for_homepage_VTON-pdf.jpg": {
+    "path": "/lab-media/9b63b4624e302ee7.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/teasor_for_homepage_VTON-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 25470,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/teaser_beyond_the_highlights-pdf.jpg": {
+    "path": "/lab-media/7b42ae2755e81725.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/teaser_beyond_the_highlights-pdf.jpg",
+    "width": 1008,
+    "height": 907,
+    "animated": false,
+    "bytes": 87604,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/11/CSEDataset_News-pdf.jpg": {
+    "path": "/lab-media/e1a29dfc8273fa81.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/11/CSEDataset_News-pdf.jpg",
+    "width": 1200,
+    "height": 506,
+    "animated": false,
+    "bytes": 71816,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/11/SanFranciscoWorld_News-pdf.jpg": {
+    "path": "/lab-media/4ba0dafab10a9dbe.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/11/SanFranciscoWorld_News-pdf.jpg",
+    "width": 1200,
+    "height": 515,
+    "animated": false,
+    "bytes": 64074,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/03/그림4.png": {
+    "path": "/lab-media/74e803f4ed48c2d0.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/03/%EA%B7%B8%EB%A6%BC4.png",
+    "width": 1200,
+    "height": 432,
+    "animated": false,
+    "bytes": 43096,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/SlaBins_publicatoin그림_v2.png": {
+    "path": "/lab-media/f44572c65b3cf379.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/SlaBins_publicatoin%EA%B7%B8%EB%A6%BC_v2.png",
+    "width": 720,
+    "height": 405,
+    "animated": false,
+    "bytes": 31746,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/10/supple_qual_ppm-2-pdf.jpg": {
+    "path": "/lab-media/4a73055851737a2f.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/10/supple_qual_ppm-2-pdf.jpg",
+    "width": 1200,
+    "height": 469,
+    "animated": false,
+    "bytes": 90258,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags.png": {
+    "path": "/lab-media/7e6a6f786626a9ac.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 54386,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_LightSplat.png": {
+    "path": "/lab-media/9460d25b8c2e6623.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_LightSplat.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 69690,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/2026_WildAni4D-1.png": {
+    "path": "/lab-media/8874b2545fe61e41.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/2026_WildAni4D-1.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 54134,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/10/DeformSplat_publication.gif": {
+    "path": "/lab-media/6a35409241fd34e5.mp4",
+    "source": "https://unist.info/wp-content/uploads/2025/10/DeformSplat_publication.gif",
+    "width": 800,
+    "height": 340,
+    "animated": true,
+    "bytes": 163616,
+    "poster": "/lab-media/6a35409241fd34e5-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2025/06/app1.gif": {
+    "path": "/lab-media/12aca0b43b4a9fe5.mp4",
+    "source": "https://unist.info/wp-content/uploads/2025/06/app1.gif",
+    "width": 960,
+    "height": 455,
+    "animated": true,
+    "bytes": 344075,
+    "poster": "/lab-media/12aca0b43b4a9fe5-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2023/12/AAAI2024-publication.png": {
+    "path": "/lab-media/e172fbba4435132d.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/12/AAAI2024-publication.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 65050,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/03/cvpr2023-jhshim.png": {
+    "path": "/lab-media/297250a9f38002d6.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/03/cvpr2023-jhshim.png",
+    "width": 1200,
+    "height": 607,
+    "animated": false,
+    "bytes": 30832,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/03/qualitative_video_for_github.gif": {
+    "path": "/lab-media/ac2798efbcec8695.mp4",
+    "source": "https://unist.info/wp-content/uploads/2024/03/qualitative_video_for_github.gif",
+    "width": 960,
+    "height": 454,
+    "animated": true,
+    "bytes": 627563,
+    "poster": "/lab-media/ac2798efbcec8695-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2023/12/ICASSP2024-pulbication.png": {
+    "path": "/lab-media/5b4d370a87baa280.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/12/ICASSP2024-pulbication.png",
+    "width": 1051,
+    "height": 643,
+    "animated": false,
+    "bytes": 43610,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/05/tpami2023-HKW-teaser-v2.png": {
+    "path": "/lab-media/95c7c02f57620b5b.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/05/tpami2023-HKW-teaser-v2.png",
+    "width": 811,
+    "height": 477,
+    "animated": false,
+    "bytes": 38462,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/02/2022_ral_icra.png": {
+    "path": "/lab-media/5c8406e0c9f97036.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/02/2022_ral_icra.png",
+    "width": 1200,
+    "height": 397,
+    "animated": false,
+    "bytes": 28264,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/02/2022_icra_thumbnail.png": {
+    "path": "/lab-media/84b1b8b17e37ca1a.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/02/2022_icra_thumbnail.png",
+    "width": 1080,
+    "height": 607,
+    "animated": false,
+    "bytes": 58366,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/11/aaai2023-teaser-v2.png": {
+    "path": "/lab-media/26f2876e0e3de335.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/11/aaai2023-teaser-v2.png",
+    "width": 1200,
+    "height": 527,
+    "animated": false,
+    "bytes": 41880,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/08/TPAMI2021_kdjoo_slam.png": {
+    "path": "/lab-media/b9a1352ad462ccb7.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/08/TPAMI2021_kdjoo_slam.png",
+    "width": 637,
+    "height": 397,
+    "animated": false,
+    "bytes": 23818,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2022/01/ijcv2022-teaser-v2.png": {
+    "path": "/lab-media/7c4d12b488783df8.webp",
+    "source": "https://unist.info/wp-content/uploads/2022/01/ijcv2022-teaser-v2.png",
+    "width": 637,
+    "height": 605,
+    "animated": false,
+    "bytes": 26094,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/05/TPAMI2021_kdjoo_selfie_v2.png": {
+    "path": "/lab-media/9851cba9349462a6.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/05/TPAMI2021_kdjoo_selfie_v2.png",
+    "width": 756,
+    "height": 403,
+    "animated": false,
+    "bytes": 38592,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/10/BMVC2021-teaser.png": {
+    "path": "/lab-media/16f61e00bd9679e4.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/10/BMVC2021-teaser.png",
+    "width": 1200,
+    "height": 538,
+    "animated": false,
+    "bytes": 32896,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/IROS2020_kdjoo_sideguide.png": {
+    "path": "/lab-media/a2abc23825e7207a.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/IROS2020_kdjoo_sideguide.png",
+    "width": 756,
+    "height": 241,
+    "animated": false,
+    "bytes": 27552,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ECCV2020_park.png": {
+    "path": "/lab-media/99055f38c831970b.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ECCV2020_park.png",
+    "width": 200,
+    "height": 100,
+    "animated": false,
+    "bytes": 2506,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/08/ICCV2021_haoang.png": {
+    "path": "/lab-media/9602f73488ec660b.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/08/ICCV2021_haoang.png",
+    "width": 621,
+    "height": 272,
+    "animated": false,
+    "bytes": 32900,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICRA2020_kdjoo_selfie.png": {
+    "path": "/lab-media/5754632172e12622.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICRA2020_kdjoo_selfie.png",
+    "width": 673,
+    "height": 310,
+    "animated": false,
+    "bytes": 29416,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ECCV2020-li_v2.png": {
+    "path": "/lab-media/0fd2551c4587b28c.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ECCV2020-li_v2.png",
+    "width": 1200,
+    "height": 555,
+    "animated": false,
+    "bytes": 78998,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICRA2020_kdjoo_slam.png": {
+    "path": "/lab-media/06ad799c3e6c2b34.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICRA2020_kdjoo_slam.png",
+    "width": 1200,
+    "height": 456,
+    "animated": false,
+    "bytes": 46190,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/PAMI_kdjoo.png": {
+    "path": "/lab-media/255da9ed3b45fd73.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/PAMI_kdjoo.png",
+    "width": 1200,
+    "height": 541,
+    "animated": false,
+    "bytes": 77078,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/PAMI2018_shlim.png": {
+    "path": "/lab-media/ecf4498b3e58c786.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/PAMI2018_shlim.png",
+    "width": 1200,
+    "height": 490,
+    "animated": false,
+    "bytes": 60258,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICCV2017_kdjoo_v2.png": {
+    "path": "/lab-media/ba506755c5494f06.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICCV2017_kdjoo_v2.png",
+    "width": 1200,
+    "height": 532,
+    "animated": false,
+    "bytes": 31582,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/CVPR2018_kdjoo_v2.png": {
+    "path": "/lab-media/a5190146363a281e.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/CVPR2018_kdjoo_v2.png",
+    "width": 1083,
+    "height": 595,
+    "animated": false,
+    "bytes": 69722,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/IROS2019_jspark.png": {
+    "path": "/lab-media/a48ebfae93b86c1f.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/IROS2019_jspark.png",
+    "width": 832,
+    "height": 454,
+    "animated": false,
+    "bytes": 16604,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/CVPR2016_kdjoo.png": {
+    "path": "/lab-media/708edeefa9e20045.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/CVPR2016_kdjoo.png",
+    "width": 1200,
+    "height": 329,
+    "animated": false,
+    "bytes": 41076,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/TVCG2016_frameau.png": {
+    "path": "/lab-media/516ffb92016280fc.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/TVCG2016_frameau.png",
+    "width": 862,
+    "height": 441,
+    "animated": false,
+    "bytes": 44230,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/RSS2019_jschoe_v3.png": {
+    "path": "/lab-media/f49542d98884d46f.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/RSS2019_jschoe_v3.png",
+    "width": 529,
+    "height": 265,
+    "animated": false,
+    "bytes": 22168,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/JRF2016_jslim.png": {
+    "path": "/lab-media/022cbe087269f841.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/JRF2016_jslim.png",
+    "width": 554,
+    "height": 405,
+    "animated": false,
+    "bytes": 36696,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/PRL2018_obalio_v2.png": {
+    "path": "/lab-media/90653c32d39d3267.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/PRL2018_obalio_v2.png",
+    "width": 1163,
+    "height": 567,
+    "animated": false,
+    "bytes": 44440,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICRA2015_iwshim.png": {
+    "path": "/lab-media/b390c4334978d88a.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICRA2015_iwshim.png",
+    "width": 565,
+    "height": 175,
+    "animated": false,
+    "bytes": 15584,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ECCVW2016_frameau.png": {
+    "path": "/lab-media/0cbe7c94aa74e860.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ECCVW2016_frameau.png",
+    "width": 635,
+    "height": 360,
+    "animated": false,
+    "bytes": 15406,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICCV2015_hwha.png": {
+    "path": "/lab-media/9adb5a16ac41d311.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICCV2015_hwha.png",
+    "width": 443,
+    "height": 237,
+    "animated": false,
+    "bytes": 13158,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/HUMANOIDS2015_hbjeong.png": {
+    "path": "/lab-media/2c2e1a2dc37f43b4.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/HUMANOIDS2015_hbjeong.png",
+    "width": 458,
+    "height": 272,
+    "animated": false,
+    "bytes": 25010,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICCV2015_shim.jpg": {
+    "path": "/lab-media/7eb63448aaad7978.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICCV2015_shim.jpg",
+    "width": 1191,
+    "height": 597,
+    "animated": false,
+    "bytes": 74322,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICIP2013_kdjoo.png": {
+    "path": "/lab-media/4ef54f72743a39d5.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICIP2013_kdjoo.png",
+    "width": 1200,
+    "height": 485,
+    "animated": false,
+    "bytes": 44510,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2021/01/ICIP2015_kdjoo.png": {
+    "path": "/lab-media/7b48f3df9f049eae.webp",
+    "source": "https://unist.info/wp-content/uploads/2021/01/ICIP2015_kdjoo.png",
+    "width": 912,
+    "height": 325,
+    "animated": false,
+    "bytes": 26332,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/egocentric.png": {
+    "path": "/lab-media/00945eed67ab0d2f.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/egocentric.png",
+    "width": 1200,
+    "height": 690,
+    "animated": false,
+    "bytes": 144216,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/Teaser_생성AI-1-pdf.jpg": {
+    "path": "/lab-media/46e9affd950ae6f8.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/Teaser_%EC%83%9D%EC%84%B1AI-1-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 87528,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/05/Teaser_이노코어_DGIST-1-pdf.jpg": {
+    "path": "/lab-media/2beeda1079a68727.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/05/Teaser_%EC%9D%B4%EB%85%B8%EC%BD%94%EC%96%B4_DGIST-1-pdf.jpg",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 64786,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_중견.png": {
+    "path": "/lab-media/ff99ca06c575ad61.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_%EC%A4%91%EA%B2%AC.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 53418,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드12.png": {
+    "path": "/lab-media/9d8583214a8d3132.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C12.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 52518,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드15.png": {
+    "path": "/lab-media/e58f7a086cb56666.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C15.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 37290,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_삼성과제.png": {
+    "path": "/lab-media/315b5372c0f54e8e.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_%EC%82%BC%EC%84%B1%EA%B3%BC%EC%A0%9C.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 13946,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_클로봇.png": {
+    "path": "/lab-media/43b3b09e1674da59.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_%ED%81%B4%EB%A1%9C%EB%B4%87.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 8568,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/10/오늘의집v2.png": {
+    "path": "/lab-media/beb818f27703f637.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/10/%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91v2.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 9812,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드4.png": {
+    "path": "/lab-media/de331986acfe9a8b.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 62256,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드21.png": {
+    "path": "/lab-media/b567b34d76d254fb.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C21.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 42326,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드17.png": {
+    "path": "/lab-media/55f20c371acc95db.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C17.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 37490,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드7.png": {
+    "path": "/lab-media/0b5f7eb3bb9f0064.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 52286,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2023/07/슬라이드9.png": {
+    "path": "/lab-media/d148b0da52d491f5.webp",
+    "source": "https://unist.info/wp-content/uploads/2023/07/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 63154,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/03/images.png": {
+    "path": "/lab-media/ebfb34ddd2e92bd5.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/03/images.png",
+    "width": 320,
+    "height": 157,
+    "animated": false,
+    "bytes": 5338,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/02/customcolor_textlogo_transparent_background-scaled.png": {
+    "path": "/lab-media/cb1c48be95f7027f.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/02/customcolor_textlogo_transparent_background-scaled.png",
+    "width": 1200,
+    "height": 720,
+    "animated": false,
+    "bytes": 14168,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Franka.png": {
+    "path": "/lab-media/f92261afb5c61802.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Franka.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 11990,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/img02_0601_detail01.png": {
+    "path": "/lab-media/c250bc71c1f29506.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/01/img02_0601_detail01.png",
+    "width": 600,
+    "height": 366,
+    "animated": false,
+    "bytes": 14468,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/jackal.jpg": {
+    "path": "/lab-media/8208fc08102534a3.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/01/jackal.jpg",
+    "width": 300,
+    "height": 230,
+    "animated": false,
+    "bytes": 3048,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Symphony5.png": {
+    "path": "/lab-media/625e5d2c98ab3958.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Symphony5.png",
+    "width": 800,
+    "height": 800,
+    "animated": false,
+    "bytes": 17282,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/xArm7.png": {
+    "path": "/lab-media/5ec56d74d5aed22f.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/xArm7.png",
+    "width": 720,
+    "height": 720,
+    "animated": false,
+    "bytes": 14524,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/UR5e.png": {
+    "path": "/lab-media/1edc33dfa467632d.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/UR5e.png",
+    "width": 513,
+    "height": 685,
+    "animated": false,
+    "bytes": 21746,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/FLIR-BFS_series.jpeg": {
+    "path": "/lab-media/e755acac76420800.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/FLIR-BFS_series.jpeg",
+    "width": 220,
+    "height": 229,
+    "animated": false,
+    "bytes": 3990,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/SO-100-101.png": {
+    "path": "/lab-media/7d839ff640aef4e9.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/SO-100-101.png",
+    "width": 1200,
+    "height": 900,
+    "animated": false,
+    "bytes": 39940,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Gelsight_mini.png": {
+    "path": "/lab-media/efdd7cf1fe0f52f4.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Gelsight_mini.png",
+    "width": 848,
+    "height": 638,
+    "animated": false,
+    "bytes": 15872,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Realsense_d435i.png": {
+    "path": "/lab-media/f5cde81f6d227db3.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Realsense_d435i.png",
+    "width": 1200,
+    "height": 674,
+    "animated": false,
+    "bytes": 17940,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Intel-Realsense-D455.jpeg": {
+    "path": "/lab-media/0d3de4493a21fab6.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Intel-Realsense-D455.jpeg",
+    "width": 381,
+    "height": 132,
+    "animated": false,
+    "bytes": 1928,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/01/thumb-2040886626_yj39GWsI_958e4c37e8ba200f48ad33cb7007651d06df1e84_400x267.png": {
+    "path": "/lab-media/02653c0aa33deb32.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/01/thumb-2040886626_yj39GWsI_958e4c37e8ba200f48ad33cb7007651d06df1e84_400x267.png",
+    "width": 400,
+    "height": 267,
+    "animated": false,
+    "bytes": 7354,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Velodyne-Ultra-Puck-VLP-32C.jpg": {
+    "path": "/lab-media/1270f5e45aa84522.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Velodyne-Ultra-Puck-VLP-32C.jpg",
+    "width": 481,
+    "height": 481,
+    "animated": false,
+    "bytes": 14190,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/zed_mini-pdf.jpg": {
+    "path": "/lab-media/ae9593c808a9902f.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/zed_mini-pdf.jpg",
+    "width": 1008,
+    "height": 403,
+    "animated": false,
+    "bytes": 10212,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Realsense_d405.png": {
+    "path": "/lab-media/30071160237a1f35.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Realsense_d405.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 17544,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/OptiTrack_flex.png": {
+    "path": "/lab-media/6e69d30e9105b490.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/OptiTrack_flex.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 33752,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/zed_x-pdf.jpg": {
+    "path": "/lab-media/9b6642cef9de92c1.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/zed_x-pdf.jpg",
+    "width": 1008,
+    "height": 403,
+    "animated": false,
+    "bytes": 4062,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/novatel_gnss-pdf.jpg": {
+    "path": "/lab-media/d7830b31ae366f0d.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/novatel_gnss-pdf.jpg",
+    "width": 1109,
+    "height": 554,
+    "animated": false,
+    "bytes": 30032,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2026/04/mid360-pdf.jpg": {
+    "path": "/lab-media/17641455095c9244.webp",
+    "source": "https://unist.info/wp-content/uploads/2026/04/mid360-pdf.jpg",
+    "width": 554,
+    "height": 504,
+    "animated": false,
+    "bytes": 10016,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Bamboo_X1C.png": {
+    "path": "/lab-media/3d747b52f2197e61.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Bamboo_X1C.png",
+    "width": 750,
+    "height": 726,
+    "animated": false,
+    "bytes": 28460,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/InspireRobots_RH56DFX.png": {
+    "path": "/lab-media/1670eb81c9b78dde.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/InspireRobots_RH56DFX.png",
+    "width": 710,
+    "height": 1000,
+    "animated": false,
+    "bytes": 34810,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/ChatGPT-Image-2025년-7월-12일-오후-10_07_05.png": {
+    "path": "/lab-media/53a310499954500d.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/ChatGPT-Image-2025%EB%85%84-7%EC%9B%94-12%EC%9D%BC-%EC%98%A4%ED%9B%84-10_07_05.png",
+    "width": 1200,
+    "height": 800,
+    "animated": false,
+    "bytes": 29480,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Robotiq_2f85.png": {
+    "path": "/lab-media/846d16c4a4dacec9.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Robotiq_2f85.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 18504,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/12/Franka_gripper.png": {
+    "path": "/lab-media/d7e2d31b8e52b286.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/12/Franka_gripper.png",
+    "width": 1200,
+    "height": 990,
+    "animated": false,
+    "bytes": 6500,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/sceneunderstanding.png": {
+    "path": "/lab-media/a1a15d57fe9f0280.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/sceneunderstanding.png",
+    "width": 922,
+    "height": 423,
+    "animated": false,
+    "bytes": 31738,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/Fig1_HUSH-1-pdf.jpg": {
+    "path": "/lab-media/5788705f7d2a1516.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/Fig1_HUSH-1-pdf.jpg",
+    "width": 1200,
+    "height": 769,
+    "animated": false,
+    "bytes": 83454,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/4_Research_1-project-teaser_250528-기초연구실-1.png": {
+    "path": "/lab-media/c2b363eb62ec608b.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/06/4_Research_1-project-teaser_250528-%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%8B%A4-1.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 48456,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-9.11.35-PM.png": {
+    "path": "/lab-media/c4b0d6f3a731d4fd.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-9.11.35-PM.png",
+    "width": 1200,
+    "height": 814,
+    "animated": false,
+    "bytes": 35850,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-8.46.40-PM.png": {
+    "path": "/lab-media/089e11e2d3ed3103.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-8.46.40-PM.png",
+    "width": 1200,
+    "height": 820,
+    "animated": false,
+    "bytes": 51120,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/ChatGPT-Image-2025년-7월-14일-오후-02_01_37.png": {
+    "path": "/lab-media/1aeee7ac203421a4.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/ChatGPT-Image-2025%EB%85%84-7%EC%9B%94-14%EC%9D%BC-%EC%98%A4%ED%9B%84-02_01_37.png",
+    "width": 1000,
+    "height": 1000,
+    "animated": false,
+    "bytes": 169066,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-4.12.48-PM.png": {
+    "path": "/lab-media/27e2eb88d93243c2.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-4.12.48-PM.png",
+    "width": 1200,
+    "height": 793,
+    "animated": false,
+    "bytes": 22044,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/Image.jpeg": {
+    "path": "/lab-media/d00d965516871563.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/Image.jpeg",
+    "width": 755,
+    "height": 755,
+    "animated": false,
+    "bytes": 24012,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-9.24.41-PM.png": {
+    "path": "/lab-media/a907d81b5d5d76ed.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/Screenshot-2025-08-31-at-9.24.41-PM.png",
+    "width": 1200,
+    "height": 801,
+    "animated": false,
+    "bytes": 26342,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/HumanGen2.png": {
+    "path": "/lab-media/6e7c304972634f41.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/HumanGen2.png",
+    "width": 1200,
+    "height": 355,
+    "animated": false,
+    "bytes": 22068,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/NVS-scaled.png": {
+    "path": "/lab-media/d7666a5365c96f1f.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/NVS-scaled.png",
+    "width": 1200,
+    "height": 218,
+    "animated": false,
+    "bytes": 14932,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/d-nerf.png": {
+    "path": "/lab-media/ce499d1f2dd6d7b2.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/d-nerf.png",
+    "width": 1079,
+    "height": 391,
+    "animated": false,
+    "bytes": 25394,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/lerf.png": {
+    "path": "/lab-media/6e8142f46676c8af.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/lerf.png",
+    "width": 1004,
+    "height": 617,
+    "animated": false,
+    "bytes": 62520,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/eventdepth.png": {
+    "path": "/lab-media/6ea75919faac1390.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/eventdepth.png",
+    "width": 1167,
+    "height": 368,
+    "animated": false,
+    "bytes": 19498,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/CSEDataset_News-pdf.jpg": {
+    "path": "/lab-media/3b40a85ff74b15d6.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/CSEDataset_News-pdf.jpg",
+    "width": 1200,
+    "height": 506,
+    "animated": false,
+    "bytes": 71816,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/image-1.png": {
+    "path": "/lab-media/1448f1aadcf58d4d.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/image-1.png",
+    "width": 1200,
+    "height": 722,
+    "animated": false,
+    "bytes": 66398,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/mast3rslam-ezgif.com-video-to-gif-converter.gif": {
+    "path": "/lab-media/c20d1d238faf2a7b.mp4",
+    "source": "https://unist.info/wp-content/uploads/2025/08/mast3rslam-ezgif.com-video-to-gif-converter.gif",
+    "width": 800,
+    "height": 450,
+    "animated": true,
+    "bytes": 2382819,
+    "poster": "/lab-media/c20d1d238faf2a7b-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2025/08/DE.png": {
+    "path": "/lab-media/a8c2dcfce8cc7340.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/08/DE.png",
+    "width": 759,
+    "height": 462,
+    "animated": false,
+    "bytes": 20296,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_ETRI.png": {
+    "path": "/lab-media/57bbc83d6f109f72.webp",
+    "source": "https://unist.info/wp-content/uploads/2024/09/4_Research_1-project-teaser_240910_ETRI.png",
+    "width": 1200,
+    "height": 675,
+    "animated": false,
+    "bytes": 44706,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/08/scene08_13_19-ezgif.com-crop.gif": {
+    "path": "/lab-media/83b806d0a9b76463.mp4",
+    "source": "https://unist.info/wp-content/uploads/2025/08/scene08_13_19-ezgif.com-crop.gif",
+    "width": 904,
+    "height": 411,
+    "animated": true,
+    "bytes": 2909972,
+    "poster": "/lab-media/83b806d0a9b76463-poster.webp",
+    "kind": "video"
+  },
+  "/wp-content/uploads/2025/09/graspnet.png": {
+    "path": "/lab-media/d1ac527fe54dd8d8.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/graspnet.png",
+    "width": 1200,
+    "height": 458,
+    "animated": false,
+    "bytes": 52046,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/09/openvla.png": {
+    "path": "/lab-media/a959e645fc6088cf.webp",
+    "source": "https://unist.info/wp-content/uploads/2025/09/openvla.png",
+    "width": 1086,
+    "height": 567,
+    "animated": false,
+    "bytes": 58196,
+    "kind": "image"
+  },
+  "/wp-content/uploads/2025/06/1_Home_slider-1-paper-1.gif": {
+    "source": "https://unist.info/wp-content/uploads/2025/06/1_Home_slider-1-paper-1.gif",
+    "path": "/lab-media/mambadance-home.mp4",
+    "poster": "/lab-media/mambadance-home.webp",
+    "width": 960,
+    "height": 480,
+    "animated": true,
+    "kind": "video",
+    "bytes": 227387
+  },
+  "/wp-content/uploads/2026/01/etri_-scaled.png": {
+    "source": "https://unist.info/wp-content/uploads/2026/01/etri_-scaled.png",
+    "path": "/lab-media/936afbb33c121710.webp",
+    "width": 1200,
+    "height": 690,
+    "animated": false,
+    "kind": "image",
+    "bytes": 51524
+  },
+  "/wp-content/uploads/2025/03/mining-2648005_1920.jpg": {
+    "source": "https://unist.info/wp-content/uploads/2025/03/mining-2648005_1920.jpg",
+    "path": "/lab-media/6330861ff7ba0dc0.webp",
+    "width": 1200,
+    "height": 800,
+    "animated": false,
+    "kind": "image",
+    "bytes": 27104
+  },
+  "/wp-content/uploads/2025/03/anthony-roberts-fMbiAi0rbkA-unsplash-scaled.jpg": {
+    "source": "https://unist.info/wp-content/uploads/2025/03/anthony-roberts-fMbiAi0rbkA-unsplash-scaled.jpg",
+    "path": "/lab-media/da254794ec1fd850.webp",
+    "width": 1200,
+    "height": 800,
+    "animated": false,
+    "kind": "image",
+    "bytes": 43036
+  }
+}

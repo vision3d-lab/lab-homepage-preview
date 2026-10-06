@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';import Media from '../components/Media.astro';import Detail from '../components/Detail.astro';import professor from '../content/professor.json';import timeline from '../content/professor-timeline.json';import {localHTML} from '../lib/site';const sections=[...new Set(timeline.map(x=>x.section))];
+---
+<Layout title="Professor"><section class="professor-profile"><Media source={professor.imageSource} alt={professor.name} eager/><div><h2>{professor.name}</h2><p class="professor-position">{professor.position}</p><Detail name="professor-profile"/></div></section><section class="professor-bio"><Detail name="professor-bio"/></section>{sections.map(section=><section class="timeline-section"><h2>{section}</h2>{timeline.filter(x=>x.section===section).map(item=><article class="timeline"><div class="prose" set:html={localHTML(item.body)}></div><p>{item.date}</p></article>)}</section>)}</Layout>

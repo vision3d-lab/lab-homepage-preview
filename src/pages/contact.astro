@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';import Detail from '../components/Detail.astro';import map from '../content/contact-map.json';
+---
+<Layout title="Contact"><iframe class="contact-map" src={map.url} title="UNIST campus location" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe><Detail name="contact"/></Layout>

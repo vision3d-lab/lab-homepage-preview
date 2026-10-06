@@ -1,0 +1,4 @@
+# Install at the official repository root only after preview approval.
+exclude:
+  - lab-site
+  - .github

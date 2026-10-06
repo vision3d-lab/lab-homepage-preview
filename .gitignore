@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+media-index.json
+media-failures.json
+inspect.mjs
+import-content.mjs

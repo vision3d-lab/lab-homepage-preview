@@ -1,0 +1,28 @@
+{
+  "name": "vision3d-lab-homepage",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "check": "astro check && node scripts/check-content.mjs",
+    "build": "npm run check && astro build && node scripts/check-build.mjs",
+    "preview": "astro preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@astrojs/markdown-remark": "^7.3.2",
+    "astro": "^7.3.5",
+    "cheerio": "^1.2.0",
+    "turndown": "^7.2.4",
+    "typescript": "^6.0.3"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  }
+}

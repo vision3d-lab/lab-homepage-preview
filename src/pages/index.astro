@@ -1,0 +1,5 @@
+---
+import Layout from '../layouts/Layout.astro';import Carousel from '../components/Carousel.astro';import Detail from '../components/Detail.astro';import news from '../content/news.json';import slides from '../content/slides.json';import {localHTML} from '../lib/site';
+const recent=news.filter(x=>'homeOrder'in x).sort((a,b)=>(a.homeOrder??0)-(b.homeOrder??0));
+---
+<Layout title="Home" home><Carousel slides={slides.hero} label="Research highlights"/><section class="home-news"><h2>📰 News</h2><div class="news-panel">{recent.map(item=><p set:html={localHTML(item.summary||'')}></p>)}</div></section><section class="home-announcement"><h2>📢 Announcement</h2><Detail name="home-announcement"/></section><section class="home-interests"><h2>🔬 Research Interests</h2><Detail name="home-interests"/></section><section class="home-section"><h2>😎 Activities</h2><Carousel slides={slides.activities} label="Lab activities"/></section></Layout>

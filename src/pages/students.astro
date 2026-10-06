@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';import Media from '../components/Media.astro';import members from '../content/members.json';import {localHTML} from '../lib/site';const groups=['Graduate Students','Staff','Interns','Alumni'];
+---
+<Layout title="Students">{groups.map(group=><section class="member-section"><h2>{group}</h2><div class="member-grid">{members.filter(x=>x.group===group).map(m=><article class="member" data-record-id={m.id}>{m.imageSource&&<Media source={m.imageSource} alt={m.name}/>}<h3>{m.name}</h3>{m.position&&<p class="member-position">{m.position}</p>}<div class="member-details" set:html={localHTML(m.body)}></div></article>)}</div></section>)}</Layout>

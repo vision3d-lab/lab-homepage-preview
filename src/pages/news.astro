@@ -1,0 +1,5 @@
+---
+import Layout from '../layouts/Layout.astro';import Media from '../components/Media.astro';import news from '../content/news.json';import {localHTML} from '../lib/site';
+const records=news.filter(x=>!('homeOnly'in x));const years=[...new Set(records.map(x=>x.year))];
+---
+<Layout title="News"><nav class="year-nav" aria-label="News years">{years.map(y=><a href={`#year-${y}`}>{y}</a>)}</nav>{years.map(year=><section class="year-section" id={`year-${year}`}><h2>{year}</h2>{records.filter(x=>x.year===year).map((item,i)=><article class:list={['news-entry',{'image-right':i%2===1}]} data-record-id={item.id}><Media source={item.imageSource} alt={item.title}/><div class="entry-text prose" set:html={localHTML(item.body)}></div></article>)}</section>)}</Layout>

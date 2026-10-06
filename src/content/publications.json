@@ -1,0 +1,965 @@
+[
+  {
+    "id": "fa9c65171e71",
+    "year": "2026",
+    "type": "International Journal",
+    "title": "Trip-to-Gaussian: A Versatile Framework for Unconditional 3D Generation",
+    "authors": "Youngwoo Jeon, Inhyeok Choi, Jaehyeok Shim, Sangjune Park and Kyungdon Joo",
+    "venue": "Transactions on Machine Learning Research (TMLR), 2026",
+    "body": "<p><strong><span>Trip-to-Gaussian: A Versatile Framework for Unconditional 3D Generation<br></span></strong><strong>Youngwoo Jeon, Inhyeok Choi, Jaehyeok Shim, Sangjune Park </strong>and<strong> Kyungdon Joo</strong><em><br><i>Transactions on Machine Learning Research</i> (TMLR), 2026</em><br>[ project page | paper | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/06/thumbnail_publication-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "5bff1ea72347",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization",
+    "authors": "Inha Lee, Dongjae Jeong, Junhee Lee and Kyungdon Joo",
+    "venue": "European Conference on Computer Vision (ECCV), 2026",
+    "body": "<p><strong><span>UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization<br></span></strong><strong>Inha Lee, Dongjae Jeong, Junhee Lee</strong>&nbsp;and&nbsp;<strong>Kyungdon Joo</strong><em><br>European Conference on Computer Vision (ECCV), 2026</em><br>[ project page | paper | <a href=\"https://github.com/vision3d-lab/UniSim-SLAM\">github</a> | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/06/unisimslam_public-1-pdf.jpg",
+    "links": [
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/UniSim-SLAM"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "67c6cb9a4400",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity",
+    "authors": "Ganghyeon Lee*, Inha Lee*, Junhee Lee, Jeongeon Lee, Sung Whan Yoon and Kyungdon Joo",
+    "venue": "European Conference on Computer Vision (ECCV), 2026",
+    "body": "<p><strong><span>FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity<br></span></strong><strong>Ganghyeon Lee*</strong>, <strong>Inha Lee*, Junhee Lee, Jeongeon Lee, </strong>Sung Whan Yoon&nbsp;and&nbsp;<strong>Kyungdon Joo</strong><em><br>European Conference on Computer Vision (ECCV), 2026</em><br>[ project page | paper | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/06/Homepage_publication-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "e7eaa2170959",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "Ray-Path-Aware Virtual Point Removal on 2D Layer-Wise Nearest Point Map",
+    "authors": "Dae Hyeon Jeon, Kyungdon Joo† and Jae-Young Sim†",
+    "venue": "European Conference on Computer Vision (ECCV), 2026",
+    "body": "<p><strong><span>Ray-Path-Aware Virtual Point Removal on 2D Layer-Wise Nearest Point Map<br></span></strong>Dae Hyeon Jeon,&nbsp;<strong> Kyungdon Joo†</strong>&nbsp;and Jae-Young Sim<strong>†</strong>&nbsp;<em><br>European Conference on Computer Vision (ECCV), 2026</em><br>[ project page | paper | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/06/KakaoTalk_20260629_215636745.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "994e28d71233",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "From Corners to Fiducial Tags: Revisiting Checkerboard Calibration for Event Cameras",
+    "authors": "Taehun Ryu, Changwoo Kang and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026",
+    "body": "<p><strong><span>From Corners to Fiducial Tags: Revisiting Checkerboard Calibration for Event Cameras<br></span></strong><strong>Taehun Ryu</strong>, <strong>Changwoo Kang</strong>&nbsp;and&nbsp;<strong>Kyungdon Joo</strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br>[ <a href=\"https://vision3d-lab.github.io/corner2tag/\">project page</a> | paper | <a href=\"https://github.com/taehun-ryu/corner2tag\">github</a> | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_From-Corners-to-Fiducial-Tags.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/corner2tag/"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/taehun-ryu/corner2tag"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "321bbb181b9e",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds",
+    "authors": "Jaehun Bang, Jinhyeok Kim, Minji Kim, Seungheon Jung and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026",
+    "body": "<p><strong><span>LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds<br></span></strong><strong>Jaehun Bang</strong>, <b>Jinhyeok Kim</b>, <b>Minji Kim</b>, <b>Seungheon Jung </b>and&nbsp;<strong>Kyungdon Joo</strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em><br>[ <a href=\"https://vision3d-lab.github.io/lightsplat/\">project page</a> | <a href=\"https://arxiv.org/abs/2603.24146\">paper</a> | <a href=\"https://github.com/vision3d-lab/lightsplat\">github</a> | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_LightSplat.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/lightsplat/"
+      },
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2603.24146"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/lightsplat"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "8ed851252d5f",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "WildAni4D: Towards 4D Animal Mesh Reconstruction",
+    "authors": "Gyeongsu Cho, Hezhen Hu, Donghyeon Soon, Changwoo Kang and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026",
+    "body": "<p><strong><span>WildAni4D: Towards 4D Animal Mesh Reconstruction<br></span></strong><strong><b>Gyeongsu Cho</b></strong>, Hezhen Hu, <strong><b>Donghyeon Soon</b></strong>, <strong><b>Changwoo Kang</b></strong> and <strong><b><u>Kyungdon Joo</u></b></strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em><br>[ project page | paper | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/2026_WildAni4D-1.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "b3ddb2b1c4df",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "Prior-Constrained Explorative Guidance for Generalization in Diffusion Motion Planning",
+    "authors": "Sunhwi Kim, Junsu Kim, Seungjae Baek, Jaechan Shin, Jungeun Lee, Seongjae Lee, Kyungdon Joo† and Jeong hwan Jeon†",
+    "venue": "International Conference on Robotics and Automation (ICRA), 2026",
+    "body": "<p><strong><span>Prior-Constrained Explorative Guidance for Generalization in Diffusion Motion Planning<br></span></strong>Sunhwi Kim, <strong>Junsu Kim</strong>, Seungjae Baek, Jaechan Shin, Jungeun Lee, Seongjae Lee, <strong>Kyungdon Joo†</strong> and Jeong hwan Jeon†<em><br>International Conference on Robotics and Automation (ICRA), 2026</em><br>[ project page | paper | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/PCEG_teaser-1-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "ca30542e8790",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model",
+    "authors": "Sangjune Park, Inhyeok Choi, Donghyeon Soon, Youngwoo Jeon and Kyungdon Joo",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
+    "body": "<p><strong><span>Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model<br></span></strong><strong>Sangjune Park, Inhyeok Choi, Donghyeon Soon, Youngwoo Jeon and Kyungdon Joo</strong><em><br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</em><br>[ <a href=\"https://vision3d-lab.github.io/mambadance/\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/WACV2026/papers/Park_Not_Like_Transformers_Drop_the_Beat_Representation_for_Dance_Generation_WACV_2026_paper.pdf\">paper</a> | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/teasor_for_homepage-pdf.jpg",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/mambadance/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/WACV2026/papers/Park_Not_Like_Transformers_Drop_the_Beat_Representation_for_Dance_Generation_WACV_2026_paper.pdf"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "e6751c6aca04",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "AnyBald: Toward Realistic Diffusion-Based Hair Removal In-The-Wild",
+    "authors": "Yongjun Choi*, Seungoh Han*, Soomin Kim, Sumin Son, Mohsen Rohani, Edgar Maucourant, Dongbo Min, Kyungdon Joo",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
+    "body": "<p><strong><span>AnyBald: Toward Realistic Diffusion-Based Hair Removal In-The-Wild<br></span></strong><strong>Yongjun Choi*, Seungoh Han*</strong>, Soomin Kim, Sumin Son, Mohsen Rohani, Edgar Maucourant, Dongbo Min, <strong>Kyungdon Joo</strong><em><br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</em><br>[ <a href=\"https://vision3d-lab.github.io/anybald/\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/WACV2026/papers/Choi_AnyBald_Toward_Realistic_Diffusion-Based_Hair_Removal_In-The-Wild_WACV_2026_paper.pdf\">paper</a> | github | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/anybald_teaser-pdf.jpg",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/anybald/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/WACV2026/papers/Choi_AnyBald_Toward_Realistic_Diffusion-Based_Hair_Removal_In-The-Wild_WACV_2026_paper.pdf"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "68efe65c9e72",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures",
+    "authors": "Seungoh Han*, Jaehoon Jang*, Hyunsu Kim, Jaeheung Surh, Junhyung Kwak, Hyowon Ha, Kyungdon Joo",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
+    "body": "<p><strong><span>LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures<br></span></strong><strong>Seungoh Han*, Jaehoon Jang*</strong>, Hyunsu Kim, Jaeheung Surh, Junhyung Kwak, Hyowon Ha, <strong>Kyungdon Joo</strong><em><br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</em><br>[ <a href=\"https://vision3d-lab.github.io/lighthousegs/\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/WACV2026/papers/Han_LighthouseGS_Indoor_Structure[…]ing_for_Panorama-Style_Mobile_Captures_WACV_2026_paper.pdf\">paper</a> | <a href=\"https://github.com/vision3d-lab/lighthousegs\">github</a> | article&nbsp;]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/teasor_lighthousegs-pdf.jpg",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/lighthousegs/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/WACV2026/papers/Han_LighthouseGS_Indoor_Structure[…]ing_for_Panorama-Style_Mobile_Captures_WACV_2026_paper.pdf"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/lighthousegs"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "11e5747236ab",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "Pose-Diverse Multi-View Virtual Try-on from a Single Frontal Image via Diffusion Transformer",
+    "authors": "Seonghee Han, Minchang Chung, Gyeongsu Cho, Kyungdon Joo, Taehwan Kim",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
+    "body": "<p><strong><span>Pose-Diverse Multi-View Virtual Try-on from a Single Frontal Image via Diffusion Transformer<br></span></strong>Seonghee Han, Minchang Chung, <strong>Gyeongsu Cho</strong>, <strong>Kyungdon Joo</strong>, Taehwan Kim<em><br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</em><em></em><br>[ project page | paper | github | article ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/teasor_for_homepage_VTON-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "220cca59d758",
+    "year": "2026",
+    "type": "International Conference",
+    "title": "Beyond the Highlights: Video Retrieval with Salient and Surrounding Contexts",
+    "authors": "Jaehun Bang, Moon Ye-Bin, Tae-Hyun Oh, Kyungdon Joo",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026",
+    "body": "<p><strong><span>Beyond the Highlights: Video Retrieval with Salient and Surrounding Contexts<br></span></strong><strong>Jaehun Bang, </strong>Moon Ye-Bin, Tae-Hyun Oh<strong>, </strong><strong>Kyungdon Joo</strong><em><br>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</em><em></em><br>[ <a href=\"https://vision3d-lab.github.io/ssdataset/\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/WACV2026/papers/Bang_Beyond_the_Highlights_Video_Retrieval_with_Salient_and_Surrounding_Contexts_WACV_2026_paper.pdf\">paper</a> | <a href=\"https://github.com/vision3d-lab/ssdataset\">github</a> | article ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/02/teaser_beyond_the_highlights-pdf.jpg",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/ssdataset/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/WACV2026/papers/Bang_Beyond_the_Highlights_Video_Retrieval_with_Salient_and_Surrounding_Contexts_WACV_2026_paper.pdf"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/ssdataset"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "990bf5464a0b",
+    "year": "2025",
+    "type": "International Journal",
+    "title": "DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction from a Single Image",
+    "authors": "Gyeongsu Cho, Changwoo Kang, Donghyeon Soon and Kyungdon Joo",
+    "venue": "International Journal of Computer Vision (IJCV), 2025",
+    "body": "<p><strong><span>DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction from a Single Image<br></span></strong><strong>Gyeongsu Cho, Changwoo Kang, Donghyeon Soon </strong>and<strong> Kyungdon Joo</strong><em><br>International Journal of Computer Vision (IJCV), 2025</em><br>[ <a href=\"https://vision3d-lab.github.io/dogrecon/\" title=\"DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction from a Single Image\">project page</a> | <a href=\"https://link.springer.com/article/10.1007/s11263-025-02485-5\" title=\"DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction from a Single Image\">paper</a> | github | <a href=\"https://biz.chosun.com/science-chosun/science/2025/07/24/J6CBRC7T25ETPJRXB4GMT2XXFU/#:~:text=%EC%9A%B8%EC%82%B0%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90(UNIST)%EC%9D%80%20%EC%A3%BC%EA%B2%BD%EB%8F%88%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%95%99%EC%9B%90%20%EA%B5%90%EC%88%98%ED%8C%80%EC%9D%B4%20%EA%B0%95%EC%95%84%EC%A7%80%EC%9D%98%20%EC%82%AC%EC%A7%84%20%ED%95%9C,%EA%B0%80%EB%A0%A4%EC%A7%80%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EA%B0%80%20%EB%A7%8E%EC%95%84%203D%20%EB%B3%B5%EC%9B%90%EC%9D%B4%20%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4%20%EB%8F%99%EB%AC%BC\">article</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/06/app1.gif",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/dogrecon/"
+      },
+      {
+        "label": "paper",
+        "url": "https://link.springer.com/article/10.1007/s11263-025-02485-5"
+      },
+      {
+        "label": "article",
+        "url": "https://biz.chosun.com/science-chosun/science/2025/07/24/J6CBRC7T25ETPJRXB4GMT2XXFU/#:~:text=%EC%9A%B8%EC%82%B0%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90(UNIST)%EC%9D%80%20%EC%A3%BC%EA%B2%BD%EB%8F%88%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%ED%95%99%EC%9B%90%20%EA%B5%90%EC%88%98%ED%8C%80%EC%9D%B4%20%EA%B0%95%EC%95%84%EC%A7%80%EC%9D%98%20%EC%82%AC%EC%A7%84%20%ED%95%9C,%EA%B0%80%EB%A0%A4%EC%A7%80%EB%8A%94%20%EA%B2%BD%EC%9A%B0%EA%B0%80%20%EB%A7%8E%EC%95%84%203D%20%EB%B3%B5%EC%9B%90%EC%9D%B4%20%EA%B9%8C%EB%8B%A4%EB%A1%9C%EC%9A%B4%20%EB%8F%99%EB%AC%BC"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "9c9a535d5d58",
+    "year": "2025",
+    "type": "International Journal",
+    "title": "San Francisco World: Leveraging Structural Regularities of Slope for 3-DOF Visual Compass",
+    "authors": "Jungil Ham, Minji Kim, Suyoung Kang, Kyungdon Joo, Haoang Li and Pyojin Kim",
+    "venue": "IEEE Robotics and Automation Letters (RA-L), 2025 (with ICRA 2025 Presentation)",
+    "body": "<p><strong><span>San Francisco World: Leveraging Structural Regularities of Slope for 3-DOF Visual Compass<br></span></strong>Jungil Ham, Minji Kim, Suyoung Kang, <strong>Kyungdon Joo</strong>, Haoang Li and Pyojin Kim<em><br>IEEE Robotics and Automation Letters (RA-L), 2025 (with ICRA 2025 Presentation)&nbsp;<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2024/11/SanFranciscoWorld_News-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "8a1e8797cbec",
+    "year": "2025",
+    "type": "International Conference",
+    "title": "DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image",
+    "authors": "Jinhyeok Kim, Jaehun Bang, Seunghyun Seo and Kyungdon Joo",
+    "venue": "ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia), 2025",
+    "body": "<p><strong><span>DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image<br></span></strong><strong>Jinhyeok Kim, Jaehun Bang, Seunghyun Seo</strong>&nbsp;and <strong>Kyungdon Joo</strong><em><br>ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia (SIGGRAPH Asia), 2025</em><br>[ <a href=\"https://vision3d-lab.github.io/deformsplat/\" title=\"DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image\">project page</a> | <a href=\"https://arxiv.org/abs/2509.22222\" title=\"DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image\">paper</a> | <a href=\"https://github.com/vision3d-lab/deformsplat\" title=\"DeformSplat: Rigidity-Aware 3D Gaussian Deformation from a Single Image\">github</a> | <a href=\"https://news.unist.ac.kr/novel-ai-approach-for-single-image-based-3d-character-animation-with-preserved-proportions/\">article</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/10/DeformSplat_publication.gif",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/deformsplat/"
+      },
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2509.22222"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/deformsplat"
+      },
+      {
+        "label": "article",
+        "url": "https://news.unist.ac.kr/novel-ai-approach-for-single-image-based-3d-character-animation-with-preserved-proportions/"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "fde4a20d86b5",
+    "year": "2025",
+    "type": "International Conference",
+    "title": "HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics",
+    "authors": "Jongsung Lee, Harin Park, Byeong-Uk Lee and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025",
+    "body": "<p><strong><span>HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics<br></span></strong><strong>Jongsung Lee, Harin Park, </strong>&nbsp;Byeong-Uk Lee and <strong>Kyungdon Joo</strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em><br>[ <a href=\"https://vision3d-lab.github.io/hush/\" title=\"HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_HUSH_Holistic_Panoramic_3D_Scene_Understanding_using_Spherical_Harmonics_CVPR_2025_paper.pdf\" title=\"HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics\">paper</a> | <a href=\"https://github.com/vision3d-lab/HUSH\" title=\"HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics\">github</a> | <a href=\"https://www.hankookilbo.com/news/article/A2025070113330002740\">article</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/03/그림4.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/hush/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_HUSH_Holistic_Panoramic_3D_Scene_Understanding_using_Spherical_Harmonics_CVPR_2025_paper.pdf"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/HUSH"
+      },
+      {
+        "label": "article",
+        "url": "https://www.hankookilbo.com/news/article/A2025070113330002740"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "1486e760228f",
+    "year": "2025",
+    "type": "International Conference",
+    "title": "VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction",
+    "authors": "Junsu Kim, Junhee Lee, Ukcheol Shin, Jean Oh and Kyungdon Joo",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025",
+    "body": "<p><strong><span>VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction<br></span></strong><strong>Junsu Kim, Junhee Lee, </strong>Ukcheol Shin, Jean Oh and<strong> Kyungdon Joo</strong><em><br>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</em><br>[ <a href=\"https://vision3d-lab.github.io/vpocc/\" title=\"VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction\">project page</a> | <a href=\"https://ieeexplore.ieee.org/document/11246960\" title=\"VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction\">paper</a> | <a href=\"https://github.com/vision3d-lab/VPOcc\" title=\"VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction\">github</a> | <a href=\"https://v.daum.net/v/BFtkPx7vYe\">article</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/05/20250527100948.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/vpocc/"
+      },
+      {
+        "label": "paper",
+        "url": "https://ieeexplore.ieee.org/document/11246960"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/VPOcc"
+      },
+      {
+        "label": "article",
+        "url": "https://v.daum.net/v/BFtkPx7vYe"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "1dcfa31b7a05",
+    "year": "2024",
+    "type": "International Journal",
+    "title": "A Benchmark Dataset for Collaborative SLAM in Service Environments",
+    "authors": "Harin Park, Inha Lee, Minje Kim, Hyungyu Park, and Kyungdon Joo",
+    "venue": "IEEE Robotics and Automation Letters (RA-L), 2024 (with ICRA 2025 Presentation)",
+    "body": "<p><strong><span>A Benchmark Dataset for Collaborative SLAM in Service Environments<br></span></strong><strong>Harin Park, Inha Lee, Minje Kim, Hyungyu Park,</strong> and <strong>Kyungdon Joo</strong>&nbsp;<em><br>IEEE Robotics and Automation Letters (RA-L), 2024 (with ICRA 2025 Presentation)</em><br>[ project page | <a href=\"https://ieeexplore.ieee.org/document/10742554\" title=\"A Benchmark Dataset for Collaborative SLAM in Service Environments\">paper</a> | <a href=\"https://github.com/vision3d-lab/CSE_Dataset\" title=\"A Benchmark Dataset for Collaborative SLAM in Service Environments\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2024/11/CSEDataset_News-pdf.jpg",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://ieeexplore.ieee.org/document/10742554"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/CSE_Dataset"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "9725c1d49d9b",
+    "year": "2024",
+    "type": "International Journal",
+    "title": "AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes",
+    "authors": "Jaehoon Jang*, Inha Lee*, Minje Kim, and Kyungdon Joo",
+    "venue": "IEEE Robotics and Automation Letters (RA-L), 2024 (with ICRA 2025 Presentation)",
+    "body": "<p><strong><span>AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes<br></span></strong><strong>Jaehoon Jang*, Inha Lee*, Minje Kim</strong>, and <strong>Kyungdon Joo</strong>&nbsp;<em><br>IEEE Robotics and Automation Letters (RA-L), 2024 (with ICRA 2025 Presentation)<br>*Equal contribution (alphabet order)</em><br>[ <a href=\"https://vision3d-lab.github.io/AiSDF/\" title=\"AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes\">project page</a> | <a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10463130\" title=\"AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes\">paper</a> | <a href=\"https://github.com/vision3d-lab/AiSDF\" title=\"AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2024/02/ral2024-AiSDF-teaser.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/AiSDF/"
+      },
+      {
+        "label": "paper",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10463130"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/AiSDF"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "2863c3953d1b",
+    "year": "2024",
+    "type": "International Conference",
+    "title": "The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning",
+    "authors": "Wonjun jo, Byungki Kwon, Jiyeon Kim, Hawook Jeong, Kyungdon Joo and Taehyun Oh",
+    "venue": "Asian Conference on Computer Vision (ACCV), 2024",
+    "body": "<p><strong><span>The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning<br></span></strong>Wonjun jo, Byungki Kwon, Jiyeon Kim, Hawook Jeong, <strong>Kyungdon Joo&nbsp;</strong>and Taehyun Oh<em><br>Asian Conference on Computer Vision (ACCV), 2024<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2024/10/supple_qual_ppm-2-pdf.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "bc194bdcd8b4",
+    "year": "2024",
+    "type": "International Conference",
+    "title": "DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction",
+    "authors": "Jaehyeok Shim and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024",
+    "body": "<p><strong><span>DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction<br></span></strong><strong>Jaehyeok Shim</strong>&nbsp;and <strong>Kyungdon Joo</strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em><br>[ <a href=\"https://vision3d-lab.github.io/ditto/\" title=\"DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction\">project page</a> | <a href=\"https://arxiv.org/abs/2403.05005\" title=\"DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction\">paper</a> | <a href=\"https://github.com/vision3d-lab/ditto\" title=\"DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2024/03/qualitative_video_for_github.gif",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://vision3d-lab.github.io/ditto/"
+      },
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2403.05005"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/vision3d-lab/ditto"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "3c56d52329c4",
+    "year": "2024",
+    "type": "International Conference",
+    "title": "Fracture Assembly with Segmentation and Iterative Registration",
+    "authors": "Jinhyeok Kim, Inha Lee and Kyungdon Joo",
+    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024",
+    "body": "<p><strong><span>Fracture Assembly with Segmentation and Iterative Registration<br></span></strong><strong>Jinhyeok Kim, Inha Lee</strong>&nbsp;and <strong>Kyungdon Joo</strong><em><br>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024</em><br>[ <a href=\"https://frasier-assembly.github.io/\" title=\"Fracture Assemble with Segmentation and Iterative Registration\">project page</a> | <a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447659\" title=\"Fracture Assembly with Segmentation and Iterative Registration\">paper</a> | <a href=\"https://github.com/jk4011/FRASIER\" title=\"Fracture Assembly with Segmentation and Iterative Registration\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/12/ICASSP2024-pulbication.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://frasier-assembly.github.io/"
+      },
+      {
+        "label": "paper",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447659"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/jk4011/FRASIER"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "166d0cb833ef",
+    "year": "2024",
+    "type": "International Conference",
+    "title": "ContactGen: Contact-Guided Interactive 3D Human Generation for Partners",
+    "authors": "Dongjun Gu, Jaehyeok Shim, Jaehoon Jang, Changwoo Kang and Kyungdon Joo",
+    "venue": "AAAI Conference on Artificial Intelligence (AAAI), 2024",
+    "body": "<p><strong><span>ContactGen: Contact-Guided Interactive 3D Human Generation for Partners<br></span></strong><strong>Dongjun Gu, Jaehyeok Shim, Jaehoon Jang, Changwoo Kang</strong>&nbsp;and <strong>Kyungdon Joo</strong><em><br>AAAI Conference on Artificial Intelligence (AAAI), 2024</em><br>[ <a href=\"https://dongjunku.github.io/contactgen/\" title=\"ContactGen: Contact-Guided Interactive 3D Human Generation for Partners\">project page</a> | <a href=\"https://arxiv.org/abs/2401.17212\" title=\"ContactGen: Contact-Guided Interactive 3D Human Generation for Partners\">paper</a> | <a href=\"https://github.com/dongjunKu/ContactGen/\" title=\"ContactGen: Contact-Guided Interactive 3D Human Generation for Partners\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/12/AAAI2024-publication.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://dongjunku.github.io/contactgen/"
+      },
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2401.17212"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/dongjunKu/ContactGen/"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "f5169e241dd5",
+    "year": "2023",
+    "type": "International Journal",
+    "title": "Learning-Based Reflection-Aware Virtual Point Removal for Large-Scale 3D Point Clouds",
+    "authors": "Oggyu Lee, Kyungdon Joo and Jae-Young Sim",
+    "venue": "IEEE Robotics and Automation Letters (RA-L), 2023",
+    "body": "<p><strong><span>Learning-Based Reflection-Aware Virtual Point Removal for Large-Scale 3D Point Clouds<br></span></strong>Oggyu Lee, <strong>Kyungdon Joo</strong>&nbsp;and Jae-Young Sim&nbsp;<em><br>IEEE Robotics and Automation Letters (RA-L), 2023<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/11/ral2023-teaser.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "6a6976e6f78b",
+    "year": "2023",
+    "type": "International Journal",
+    "title": "Hong Kong World: Leveraging Structural Regularity for Line-based SLAM",
+    "authors": "Haoang Li, Ji Zhao, Jean-Charles Bazin, Pyojin Kim, Kyungdon Joo, Zhenjun Zhao and Yun-Hui Liu",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 (accepted)",
+    "body": "<p><strong><span>Hong Kong World: Leveraging Structural Regularity for Line-based SLAM</span></strong><br>Haoang Li, Ji Zhao, Jean-Charles Bazin, Pyojin Kim, <strong>Kyungdon Joo</strong>, Zhenjun Zhao and Yun-Hui Liu&nbsp;<em><br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 (accepted)<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/05/tpami2023-HKW-teaser-v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "a402b68f8edf",
+    "year": "2023",
+    "type": "International Conference",
+    "title": "SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments",
+    "authors": "Jongsung Lee, Gyeongsu Cho*, Jeongin Park*, Kyongjun Kim*, Seongoh Lee*, Jung Hee Kim, Seong-Gyun Jeong and Kyungdon Joo",
+    "venue": "IEEE International Conference on Computer Vision (ICCV), 2023",
+    "body": "<p><span><strong>SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments</strong></span><br><b>Jongsung Lee, Gyeongsu Cho*, Jeongin Park*, Kyongjun Kim*, Seongoh Lee*,</b> Jung Hee Kim, Seong-Gyun Jeong and <strong>Kyungdon Joo</strong><em><br>IEEE International Conference on Computer Vision (ICCV), 2023<br>*Equal contribution (alphabet order)</em><br>[ <a href=\"https://syniez.github.io/SlaBins/\" title=\"SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments\">project page</a> | <a href=\"https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.pdf\" title=\"SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments\">paper</a> | <a href=\"https://github.com/Syniez/SlaBins\" title=\"SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/07/SlaBins_publicatoin그림_v2.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://syniez.github.io/SlaBins/"
+      },
+      {
+        "label": "paper",
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.pdf"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/Syniez/SlaBins"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "48b1c90791fb",
+    "year": "2023",
+    "type": "International Conference",
+    "title": "Diffusion-based Signed Distance Fields for 3D Shape Generation",
+    "authors": "Jaehyeok Shim, Changwoo Kang and Kyungdon Joo",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023",
+    "body": "<p><span><strong>Diffusion-based Signed Distance Fields for 3D Shape Generation</strong></span><br><strong>Jaehyeok Shim</strong>, <strong>Changwoo Kang </strong>and&nbsp;<strong>Kyungdon Joo</strong><em><br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023</em><br>[ <a href=\"https://kitsunetic.github.io/sdf-diffusion/\" title=\"Diffusion-based Signed Distance Fields for 3D Shape Generation\">project page</a> | <a href=\"https://arxiv.org/abs/2211.13757\" title=\"Diffusion-based Signed Distance Fields for 3D Shape Generation\">paper</a> | <a href=\"https://github.com/Kitsunetic/SDF-Diffusion\" title=\"Diffusion-based Signed Distance Fields for 3D Shape Generation\">github</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2023/03/cvpr2023-jhshim.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://kitsunetic.github.io/sdf-diffusion/"
+      },
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2211.13757"
+      },
+      {
+        "label": "github",
+        "url": "https://github.com/Kitsunetic/SDF-Diffusion"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "0d40db8b3283",
+    "year": "2023",
+    "type": "International Conference",
+    "title": "Pose-guided 3D Human Generation in Indoor Scene",
+    "authors": "Minseok Kim, Changwoo Kang, Jeongin Park and Kyungdon Joo",
+    "venue": "AAAI Conference on Artificial Intelligence (AAAI), 2023",
+    "body": "<p><span><strong>Pose-guided 3D Human Generation in</strong></span><span><strong> I</strong></span><span><strong>ndoor</strong></span><span><strong> Scene</strong></span><br><strong>Minseok Kim</strong>, <strong>Changwoo Kang</strong>, <strong>Jeongin Park </strong>and&nbsp;<strong>Kyungdon Joo</strong><em><br>AAAI Conference on Artificial Intelligence (AAAI), 2023</em><br>[ <a href=\"https://bupyeonghealer.github.io/phin/\" title=\"Pose-guided 3D Human Generation in Indoor Scene\">project page</a> | <a href=\"https://ojs.aaai.org/index.php/AAAI/article/view/25195\" title=\"Pose-guided 3D Human Generation in Indoor Scene\">paper</a> | github ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2022/11/aaai2023-teaser-v2.png",
+    "links": [
+      {
+        "label": "project page",
+        "url": "https://bupyeonghealer.github.io/phin/"
+      },
+      {
+        "label": "paper",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/25195"
+      }
+    ],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "849e5089c75c",
+    "year": "2022",
+    "type": "International Journal",
+    "title": "Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments",
+    "authors": "Jinsun Park∗, Yongseop Jeong∗, Kyungdon Joo, Donghyeon Cho and In So Kweon",
+    "venue": "IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation), 2022",
+    "body": "<p><strong>Adaptive Cost Volume Fusion Network for Multi-Modal Depth Estimation in Changing Environments</strong><br>Jinsun Park∗, Yongseop Jeong∗, <strong>Kyungdon Joo</strong>, Donghyeon Cho and In So Kweon&nbsp;<em><br>IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation), 2022</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2022/02/2022_ral_icra.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "229bf17e1abf",
+    "year": "2022",
+    "type": "International Journal",
+    "title": "Quasi-globally Optimal and Real-time Visual Compass in Manhattan Structured Environments",
+    "authors": "Pyojin Kim, Haoang Li and Kyungdon Joo",
+    "venue": "IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation), 2022",
+    "body": "<p><strong>Quasi-globally Optimal and Real-time Visual Compass in Manhattan Structured Environments</strong><br>Pyojin Kim, Haoang Li and <strong>Kyungdon Joo</strong><em><br>IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation), 2022<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2022/02/2022_icra_thumbnail.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "3fe42519f3d0",
+    "year": "2022",
+    "type": "International Journal",
+    "title": "Linear RGB-D SLAM for Structured Environments",
+    "authors": "Kyungdon Joo, Pyojin Kim, Martial Hebert, In So Kweon and Hyoun Jin Kim",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 44, no. 11, pp. 8403-8419, 2022",
+    "body": "<p><strong>Linear RGB-D SLAM for Structured Environments</strong><br><strong>Kyungdon Joo</strong>, Pyojin Kim, Martial Hebert, In So Kweon and Hyoun Jin Kim<em><br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 44, no. 11, pp. 8403-8419, 2022<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/08/TPAMI2021_kdjoo_slam.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "826a3f001a04",
+    "year": "2022",
+    "type": "International Journal",
+    "title": "Robust and Efficient Estimation of Relative Pose for Cameras on Selfie Sticks",
+    "authors": "Kyungdon Joo, Hongdong Li, Tae-Hyun Oh and In So Kweon",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 44, no. 9, pp. 5460-5471, 2022",
+    "body": "<p><strong>Robust and Efficient Estimation of Relative Pose for Cameras on Selfie Sticks</strong><br><strong>Kyungdon Joo</strong>, Hongdong Li, Tae-Hyun Oh and In So Kweon<em><br>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 44, no. 9, pp. 5460-5471, 2022<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/05/TPAMI2021_kdjoo_selfie_v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "f4fdb9722214",
+    "year": "2022",
+    "type": "International Journal",
+    "title": "Real-Time Multi-Car Localization and See-Through System",
+    "authors": "Francois Rameau, Oleksandr Bailo, Jinsun Park, Kyungdon Joo and In So Kweon",
+    "venue": "International Journal of Computer Vision (IJCV), vol. 130, pp. 384-404, 2022",
+    "body": "<p><strong>Real-Time Multi-Car Localization and See-Through System</strong><br>Francois Rameau, Oleksandr Bailo, Jinsun Park, <strong>Kyungdon Joo</strong>&nbsp;and In So Kweon<em><br>International Journal of Computer Vision (IJCV), vol. 130, pp. 384-404, 2022<br></em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2022/01/ijcv2022-teaser-v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "cd0bc92143f3",
+    "year": "2021",
+    "type": "International Journal",
+    "title": "Volumetric Propagation Network: Stereo-LiDAR Fusion for High-Quality Depth Estimation",
+    "authors": "Jaesung Choe, Kyungdon Joo, Tooba Imtiaz and In So Kweon",
+    "venue": "IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation), 2021",
+    "body": "<p><strong>Volumetric Propagation Network: Stereo-LiDAR Fusion for High-Quality Depth Estimation</strong><br> Jaesung Choe,&nbsp;<strong>Kyungdon Joo</strong>, Tooba Imtiaz and In So Kweon<br><em>IEEE Robotics and Automation Letters (RA-L) (with ICRA presentation),&nbsp;2021</em></p><em> </em>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/02/RAL-ICRA2021-jschoe.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "07ede4931770",
+    "year": "2021",
+    "type": "International Conference",
+    "title": "Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise",
+    "authors": "Youwang Kim, Ji-Yeon Kim, Kyungdon Joo and Tae-Hyun Oh",
+    "venue": "British Machine Vision Conference (BMVC), 2021",
+    "body": "<p><strong>Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise<br></strong>Youwang Kim, Ji-Yeon Kim, <strong>Kyungdon Joo</strong> and Tae-Hyun Oh<br><em>British Machine Vision Conference (BMVC), 2021</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/10/BMVC2021-teaser.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "33c9a759d69f",
+    "year": "2021",
+    "type": "International Conference",
+    "title": "Learning Icosahedral Spherical Probability Map Based on Bingham Mixture Model for Vanishing Point Estimation",
+    "authors": "Haoang Li*, Kai Chen*, Pyonjin Kim, Kuk-Jin Yoon, Zhe Liu, Kyungdon Joo† and Yun-Hui Liu†",
+    "venue": "IEEE International Conference on Computer Vision (ICCV), 2021",
+    "body": "<p><strong>Learning Icosahedral Spherical Probability Map Based on Bingham Mixture Model for Vanishing Point Estimation<br></strong>Haoang Li*, Kai Chen*, Pyonjin Kim, Kuk-Jin Yoon, Zhe Liu, <strong>Kyungdon Joo†</strong> and Yun-Hui Liu†<br><em>IEEE International Conference on Computer Vision (ICCV), 2021</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/08/ICCV2021_haoang.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "ebedf94f9d8a",
+    "year": "2021",
+    "type": "International Conference",
+    "title": "Stereo Object Matching Network",
+    "authors": "Jaesung Choe*, Kyungdon Joo*, Francois Rameau and In So Kweon",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2021",
+    "body": "<p><strong>Stereo Object Matching Network</strong><br> Jaesung Choe*,&nbsp;<strong>Kyungdon Joo*</strong>, Francois Rameau and In So Kweon<br><em>IEEE International Conference on Robotics and Automation (ICRA), 2021</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/03/ICRA2021-jschoe.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "5a65ca882836",
+    "year": "2020",
+    "type": "International Journal",
+    "title": "Globally Optimal Inlier Set Maximization for Atlanta World Understanding",
+    "authors": "Kyungdon Joo, Tae-Hyun Oh, In So Kweon and Jean-Charles Bazin",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 42, no. 10, pp. 2656-2669, 2020",
+    "body": "<p><strong>Globally Optimal Inlier Set Maximization for Atlanta World Understanding</strong><br><strong>Kyungdon Joo</strong>, Tae-Hyun Oh, In So Kweon and Jean-Charles Bazin<br><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 42, no. 10, pp. 2656-2669, 2020</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/PAMI_kdjoo.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "ddca09d09335",
+    "year": "2020",
+    "type": "International Conference",
+    "title": "SideGuide: A Large-scale Sidewalk Dataset for Guiding Impaired People",
+    "authors": "Kyungdon Joo*, Kibaek Park*, Youngtaek Oh*, Soomin Ham*, Hyokyoung Kim, Hyoyoung Kum and In So Kweon",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020",
+    "body": "<p><strong>SideGuide: A Large-scale Sidewalk Dataset for Guiding Impaired People</strong><br> <strong>Kyungdon Joo</strong><strong>*</strong>, Kibaek Park*, Youngtaek Oh*, Soomin Ham*, Hyokyoung Kim, Hyoyoung Kum and In So Kweon<br> <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/IROS2020_kdjoo_sideguide.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "c8c2ec4c9e86",
+    "year": "2020",
+    "type": "International Conference",
+    "title": "Non-Local Spatial Propagation Network for Depth Completion",
+    "authors": "Jinsun Park, Kyungdon Joo, Zhe Hu, Chi-Kuei Liu and In So Kweon",
+    "venue": "European Conference on Computer Vision (ECCV), 2020",
+    "body": "<p><strong>Non-Local Spatial Propagation Network for Depth Completion</strong><br>Jinsun Park, <strong>Kyungdon Joo</strong>, Zhe Hu, Chi-Kuei Liu and In So Kweon<br><em>European Conference on Computer Vision (ECCV), 2020</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/01/ECCV2020_park.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "ee20ece3990e",
+    "year": "2020",
+    "type": "International Conference",
+    "title": "Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World",
+    "authors": "Haoang Li, Pyojin Kim, Ji Zhao, Kyungdon Joo, Zhipeng Cai, Zhe Liu and Yun-Hui Liu",
+    "venue": "European Conference on Computer Vision (ECCV), 2020",
+    "body": "<p><strong>Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World</strong><br> Haoang Li, Pyojin Kim, Ji Zhao, <strong>Kyungdon Joo</strong>, Zhipeng Cai, Zhe Liu and Yun-Hui Liu<em><br> European Conference on Computer Vision (ECCV), 2020</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ECCV2020-li_v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "1007c0a03550",
+    "year": "2020",
+    "type": "International Conference",
+    "title": "Globally Optimal Relative Pose Estimation for Camera on a Selfie Stick",
+    "authors": "Kyungdon Joo, Hongdong Li, Tae-Hyun Oh, Yunsu Bok and In So Kweon",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2020",
+    "body": "<p><strong>Globally Optimal Relative Pose Estimation for Camera on a Selfie Stick</strong><br><strong>Kyungdon Joo</strong>, Hongdong Li, Tae-Hyun Oh, Yunsu Bok and In So Kweon<em><br>IEEE International Conference on Robotics and Automation (ICRA), 2020<br></em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICRA2020_kdjoo_selfie.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "694ef0d36044",
+    "year": "2020",
+    "type": "International Conference",
+    "title": "Linear RGB-D SLAM for Atlanta World",
+    "authors": "Kyungdon Joo, Tae-Hyun Oh, Francois Rameau, Jean-Charles Bazin and In So Kweon",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2020",
+    "body": "<p><strong>Linear RGB-D SLAM for Atlanta World</strong><br> <strong>Kyungdon Joo</strong>, Tae-Hyun Oh, Francois Rameau, Jean-Charles Bazin and In So Kweon<em><br> IEEE International Conference on Robotics and Automation (ICRA), 2020<br> </em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICRA2020_kdjoo_slam.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "441a36f0bac9",
+    "year": "2019",
+    "type": "International Journal",
+    "title": "Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras",
+    "authors": "Sunghoon Im, Hyowon Ha, Gyeongmin Choe, Hae-Gon Jeon, Kyungdon Joo and In So Kweon",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 41, no. 4, pp. 775-787, 2019",
+    "body": "<p><strong><span>Accurate 3D Reconstruction from Small Motion Clip for Rolling Shutter Cameras</span></strong><br>Sunghoon Im, Hyowon Ha, Gyeongmin Choe, Hae-Gon Jeon, <strong>Kyungdon Joo</strong> and In So Kweon<br><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 41, no. 4, pp. 775-787, 2019</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/PAMI2018_shlim.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "31724689ff52",
+    "year": "2019",
+    "type": "International Journal",
+    "title": "Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time",
+    "authors": "Kyungdon Joo, Tae-Hyun Oh, Junsik Kim and In So Kweon",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 41, no. 3, pp. 682-696, 2019",
+    "body": "<p><strong><span>Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time</span></strong><br> <strong>Kyungdon Joo</strong>, Tae-Hyun Oh, Junsik Kim and In So Kweon<br> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 41, no. 3, pp. 682-696, 2019<br> </em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/CVPR2016_kdjoo.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "49cd9f5fb230",
+    "year": "2019",
+    "type": "International Conference",
+    "title": "Vehicular Multi-Camera Sensor System for Automated Visual Inspection of Electric Power Distribution Equipment",
+    "authors": "Jinsun Park, Ukcheol Shin, Gyumin Shim, Kyungdon Joo, François Rameau, Junhyeok Kim, Dong-Geol Choi and In So Kweon",
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019",
+    "body": "<p><strong>Vehicular Multi-Camera Sensor System for Automated Visual Inspection of Electric Power Distribution Equipment</strong><br> Jinsun Park, Ukcheol Shin, Gyumin Shim, <strong>Kyungdon Joo</strong>, François Rameau, Junhyeok Kim, Dong-Geol Choi and In So Kweon<br> <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019<br> </em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/IROS2019_jspark.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "ae43e0355732",
+    "year": "2019",
+    "type": "International Conference",
+    "title": "Segment2Regress: Monocular 3D Vehicle Localization in Two-stage",
+    "authors": "Jaesung Choe, Kyungdon Joo, François Rameau, Gyumin Shim and In So Kweon",
+    "venue": "Robotics: Science and Systems (RSS), 2019",
+    "body": "<p><strong>Segment2Regress: Monocular 3D Vehicle Localization in Two-stage</strong><br> Jaesung Choe, <strong>Kyungdon Joo</strong>, François Rameau, Gyumin Shim and In So Kweon<br> <em>Robotics: Science and Systems (RSS), 2019</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/RSS2019_jschoe_v3.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "0ac52212a47f",
+    "year": "~2018",
+    "type": "International Journal",
+    "title": "Efficient Adaptive Non-maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution",
+    "authors": "Oleksandr Bailo, François Rameau, Kyungdon Joo, Jinsun Park, Oleksandr Bogdan and In So Kweon",
+    "venue": "Pattern Recognition Letters (PRL), vol. 106, pp. 53-60, 2018",
+    "body": "<p><strong><span>Efficient Adaptive Non-maximal Suppression Algorithms for Homogeneous Spatial Keypoint Distribution</span></strong><br> Oleksandr Bailo, François Rameau, <strong>Kyungdon Joo</strong>, Jinsun Park, Oleksandr Bogdan and In So Kweon<br> <em>Pattern Recognition Letters (PRL), vol. 106, pp. 53-60, 2018</em></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2021/01/PRL2018_obalio_v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "d759d2c5b7f6",
+    "year": "~2018",
+    "type": "International Journal",
+    "title": "Robust System of DRC-HUBO+ and Control Strategy of Team KAIST in DARPA Robotics Challenges Finals",
+    "authors": "Jeongsoo Lim, Inho Lee, Inwook Shim, Hyobin Jung, Hyun Min Joe, Hyoin Bae, Okkee Sim, Jaesung Oh, Taejin Jung, Seunghak Shin, Kyungdon Joo, Mingeuk Kim, Kangkyu Lee, Yunsu Bok, Dong‐Geol Choi, Buyoun Cho, Sungwoo Kim, Jungwoo Heo, Inhyeok Kim, Jungho Lee, In So Kwon and Jun‐Ho Oh",
+    "venue": "Journal of Field Robotics (JFR), vol. 34, no. 4, pp. 623-829, 2017",
+    "body": "<p><strong><span>Robust System of DRC-HUBO+ and Control Strategy of Team KAIST in DARPA Robotics Challenges Finals</span></strong><br> Jeongsoo Lim, Inho Lee, Inwook Shim, Hyobin Jung, Hyun Min Joe, Hyoin Bae, Okkee Sim, Jaesung Oh, Taejin Jung, Seunghak Shin, <strong>Kyungdon Joo</strong>, Mingeuk Kim, Kangkyu Lee, Yunsu Bok, Dong‐Geol Choi, Buyoun Cho, Sungwoo Kim, Jungwoo Heo, Inhyeok Kim, Jungho Lee, In So Kwon and Jun‐Ho Oh<br> <em>Journal of Field Robotics (JFR), vol. 34, no. 4, pp. 623-829, 2017</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/JRF2016_jslim.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "7304e9ae60e9",
+    "year": "~2018",
+    "type": "International Journal",
+    "title": "A Real-Time Augmented Reality System to See-Through Cars",
+    "authors": "François Rameau, Hyowon Ha, Kyungdon Joo, Jinsoo Choi, Kibaek Park and In So Kweon",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 22, no. 11, pp. 2395-2404, 2016",
+    "body": "<p><strong><span>A Real-Time Augmented Reality System to See-Through Cars</span></strong><br> François Rameau, Hyowon Ha, <strong>Kyungdon Joo</strong>, Jinsoo Choi, Kibaek Park and In So Kweon<em><br> IEEE Transactions on Visualization and Computer Graphics (TVCG), vol. 22, no. 11, pp. 2395-2404, 2016</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/TVCG2016_frameau.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "cd94c3ce8c42",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation",
+    "authors": "Kyungdon Joo, Tae-Hyun Oh, In So Kweon and Jean-Charles Bazin",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018",
+    "body": "<p><strong>Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation<br></strong><strong>Kyungdon Joo</strong>, Tae-Hyun Oh, In So Kweon and Jean-Charles Bazin<br><em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/CVPR2018_kdjoo_v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "d84f5356e1c4",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning",
+    "authors": "Kyungdon Joo*, Tae-Hyun Oh*, Neel Joshi, Baoyuan Wang, In So Kweon and Sing Bing Kang",
+    "venue": "IEEE International Conference on Computer Vision (ICCV), 2017",
+    "body": "<p><strong>Personalized Cinemagraphs using Semantic Understanding and Collaborative Learning<br> </strong><strong>Kyungdon Joo</strong>*, Tae-Hyun Oh*, Neel Joshi, Baoyuan Wang, In So Kweon and Sing Bing Kang<br> <em>IEEE International Conference on Computer Vision (ICCV), 2017</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICCV2017_kdjoo_v2.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "90b6476c56fd",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "A Real-time Vehicular Vision System to Seamlessly See-through Cars",
+    "authors": "François Rameau, Hyowon Ha, Kyungdon Joo, Jinsoo Choi and In So Kweon",
+    "venue": "European Conference on Computer Vision (ECCV) Workshop – Assistive Computer Vision and Robotics, 2016",
+    "body": "<p><strong>A Real-time Vehicular Vision System to Seamlessly See-through Cars<br> </strong>François Rameau, Hyowon Ha, <strong>Kyungdon Joo</strong>, Jinsoo Choi and In So Kweon<br> <em>European Conference on Computer Vision (ECCV) Workshop – Assistive Computer Vision and Robotics, 2016</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ECCVW2016_frameau.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "71d3467699d3",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Globally Optimal Manhattan Frame Estimation in Real-time",
+    "authors": "Kyungdon Joo*, Tae-Hyun Oh*, Junsik Kim and In So Kweon",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016",
+    "body": "<p><strong>Globally Optimal Manhattan Frame Estimation in Real-time<br> </strong><strong>Kyungdon Joo</strong>*, Tae-Hyun Oh*, Junsik Kim and In So Kweon<br> <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/CVPR2016_kdjoo.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "713186e8aea4",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Vision System and Depth Processing for DRC-HUBO+",
+    "authors": "Inwook Shim, Seunghak Shin, Yunsu Bok, Kyungdon Joo, Dong-Geol Choi, Joon-Young Lee, Jaesik Park, Jun-Ho Oh and In So Kweon",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2016",
+    "body": "<p><strong>Vision System and Depth Processing for DRC-HUBO+<br> </strong>Inwook Shim, Seunghak Shin, Yunsu Bok, <strong>Kyungdon Joo</strong>, Dong-Geol Choi, Joon-Young Lee, Jaesik Park, Jun-Ho Oh and In So Kweon<br> <em>IEEE International Conference on Robotics and Automation (ICRA), 2016</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICRA2015_iwshim.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "30c9680e332d",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Control Strategies for a Humanoid Robot to Drive and then Egress a Utility Vehicle for Remote Approach",
+    "authors": "Hyobin jeong, Jaesung Oh, Mingeuk Kim, Kyungdon Joo, In So Kweon and Jun-Ho Oh",
+    "venue": "IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS), 2015",
+    "body": "<p><strong>Control Strategies for a Humanoid Robot to Drive and then Egress a Utility Vehicle for Remote Approach<br> </strong>Hyobin jeong, Jaesung Oh, Mingeuk Kim, <strong>Kyungdon Joo</strong>, In So Kweon and Jun-Ho Oh<br> <em>IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS), 2015</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/HUMANOIDS2015_hbjeong.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "f6a9d41025fb",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Accurate Camera Calibration Robust to Defocus using a Smartphone",
+    "authors": "Hyowon Ha, Yunsu Bok, Kyungdon Joo, Jiyoung Jung and In So Kweon",
+    "venue": "IEEE International Conference on Computer Vision (ICCV), 2015",
+    "body": "<p><strong>Accurate Camera Calibration Robust to Defocus using a Smartphone<br> </strong>Hyowon Ha, Yunsu Bok, <strong>Kyungdon Joo</strong>, Jiyoung Jung and In So Kweon<br> <em>IEEE International Conference on Computer Vision (ICCV), 2015</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICCV2015_hwha.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "34b866bbddbe",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "High Quality Structure from Small Motion for Rolling Shutter Cameras",
+    "authors": "Sunghoon Im, Hyowon Ha, Gyeongmin Choe, Hae-Gon Jeon, Kyungdon Joo and In So Kweon",
+    "venue": "IEEE International Conference on Computer Vision (ICCV), 2015",
+    "body": "<p><strong>High Quality Structure from Small Motion for Rolling Shutter Cameras<br> </strong>Sunghoon Im, Hyowon Ha, Gyeongmin Choe, Hae-Gon Jeon, <strong>Kyungdon Joo</strong> and In So Kweon<br> <em>IEEE International Conference on Computer Vision (ICCV), 2015</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICCV2015_shim.jpg",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "7257d037a9ec",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Line Meets As-Projective-As-Possible Image Stitching with Moving DLT",
+    "authors": "Kyungdon Joo, Namil Kim, Tae-Hyun Oh and In So Kweon",
+    "venue": "IEEE International Conference on Image Processing (ICIP), 2015",
+    "body": "<p><strong>Line Meets As-Projective-As-Possible Image Stitching with Moving DLT<br> </strong><strong>Kyungdon Joo</strong>, Namil Kim, Tae-Hyun Oh and In So Kweon<br> <em>IEEE International Conference on Image Processing (ICIP), 2015</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICIP2015_kdjoo.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  },
+  {
+    "id": "a5bc9736c085",
+    "year": "~2018",
+    "type": "International Conference",
+    "title": "Hierarchical 3D Line Restoration based on Angular Proximity in Structured Environments",
+    "authors": "Kyungdon Joo, Tae-Hyun Oh, Hyeongwoo Kim and In So Kweon",
+    "venue": "IEEE International Conference on Image Processing (ICIP), 2013",
+    "body": "<p><strong>Hierarchical 3D Line Restoration based on Angular Proximity in Structured Environments<br> </strong><strong>Kyungdon Joo</strong>, Tae-Hyun Oh, Hyeongwoo Kim and In So Kweon<br> <em>IEEE International Conference on Image Processing (ICIP), 2013</em></p>",
+    "imageSource": "http://wny.baz.mybluehost.me/wp-content/uploads/2021/01/ICIP2013_kdjoo.png",
+    "links": [],
+    "source": "https://unist.info/?page_id=1064"
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "8f3a647c3c76",
+    "group": "Graduate Students",
+    "name": "Changwoo Kang (강창우)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/Kang-ChangWoo\">Github</a>&nbsp;| <a href=\"mailto:kangchangwoo@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Generation, Robot Vision</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/강창우.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "07acd441edb8",
+    "group": "Graduate Students",
+    "name": "Jaehyeok Shim (심재혁)",
+    "position": "Ph.D Course",
+    "body": "<p>[ <a href=\"https://github.com/Kitsunetic\">GitHub</a> | <a href=\"mailto:jh.shim@unist.ac.kr\">Email</a> ]<br><strong>Interest: Large Vision Model</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/심재혁.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "e49c9c5dfc5e",
+    "group": "Graduate Students",
+    "name": "Inha Lee (이인하)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/Epsilon8854\">GitHub</a> | <a href=\"mailto:epsilon8854@unist.ac.kr\">Email</a> ]<br><strong>Interest: Multi-agent SLAM, 3D reconstruction</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/07/이인하1-1.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "ce4c91fd3b4f",
+    "group": "Graduate Students",
+    "name": "👑 Gyeongsu Cho (조경수)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://threedv.github.io/\">Web</a> | <a href=\"mailto:threedv@unist.ac.kr\">Email</a> ]<strong><br>Interest: 3D/4D Reconstruction, Generation</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/조경수.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "d3c6a8dfc9fd",
+    "group": "Graduate Students",
+    "name": "Jongsung Lee (이종성)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://jongsunglee.notion.site/\">Web</a> | <a href=\"mailto:syniez@unist.ac.kr\">Email</a> ]<strong><br>Interest: Panorama Vision, 3D Scene understanding</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/이종성.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "eaa4968487b2",
+    "group": "Graduate Students",
+    "name": "Sangjune Park (박상준)",
+    "position": "Ph.D Course",
+    "body": "<p>[ <a href=\"https://github.com/jjuke\">GitHub</a> | <a href=\"https://jjuke-brain.tistory.com\">Blog</a> | <a href=\"mailto:psj9116@unist.ac.kr\">Email</a> ]<strong><br>Interest: 3D Generation, 3D Human, Multi-Modal Learning</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/박상준.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "775e8deccf99",
+    "group": "Graduate Students",
+    "name": "Hyungyu Park (박현규)",
+    "position": "Ph.D Course",
+    "body": "<p>[ <a href=\"mailto:hyungyu@unist.ac.kr\">Email</a> ]<strong><br>Interest:Robot vision, Navigation</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/박현규.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "81fd42b58aa7",
+    "group": "Graduate Students",
+    "name": "Junsu Kim (김준수)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/joonsu0109gh\">GitHub</a> | <a href=\"mailto:joonsu0109@unist.ac.kr\">Email</a> ]<strong><br>Interest: 3D Scene Understanding, Robot Vision</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/김준수.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "c0e856c39afe",
+    "group": "Graduate Students",
+    "name": "Junhee Lee (이준희)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/junhee98\">GitHub</a> | <a href=\"mailto:jjunhee1998@gmail.com\">Email</a> ]<strong><br>Interest:Robot Vision, 3D Vision</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/이준희.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "c62a2d5df56c",
+    "group": "Graduate Students",
+    "name": "Youngwoo Jeon (전영우)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/wowo0709\">GitHub</a> | <a href=\"https://wowo0709.github.io/\">Web</a> | <a href=\"mailto:youngwoo.jeon@unist.ac.kr\">Email</a> ]<strong><br>Interest: 3D Generation</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/전영우.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "69db26133cb3",
+    "group": "Graduate Students",
+    "name": "Minji Kim (김민지)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"mailto:mzkim@unist.ac.kr\">Email</a> ]<strong><br>Interest: Robot vision</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/김민지.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "9405b9cd4e95",
+    "group": "Graduate Students",
+    "name": "Jeongeon Lee (이정언)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"mailto:aeonian@unist.ac.kr\">Email</a> ]<strong><br>Interest: Robot vision, Online SDF Mapping, Collaborative Mapping</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/이정언.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "29c862ecfd10",
+    "group": "Graduate Students",
+    "name": "Jaehun Bang (방재훈)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"https://github.com/devappendCBangJ\">GitHub</a> | <a href=\"mailto:devappendcbangj@unist.ac.kr\">Email</a> ]<strong><br>Interest: 3D Understanding, Vision-Language Model</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/방재훈.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "81bef20e82c4",
+    "group": "Graduate Students",
+    "name": "Yujin Park (박유진)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"mailto:yujinpark@unist.ac.kr\">Email</a> ]<strong><br>Interest: Robot Vision, 3D Scene Understanding</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/박유진.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "99b6717ce449",
+    "group": "Graduate Students",
+    "name": "Ganghyeon Lee (이강현)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/rkdgus0\">Github</a> | <a href=\"mailto:create0327@unist.ac.kr\">Email</a> ]<strong><br>Interest: Multi-Agent System, Robot Perception</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/이강현.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "dd8f50e7720a",
+    "group": "Graduate Students",
+    "name": "Taehun Ryu (류태훈)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[<a href=\"https://github.com/taehun-ryu\"> Github</a> | <a href=\"mailto:taehunryu@unist.ac.kr\">Email</a> ]<br><strong>Interest: Robot Vision, Visual SLAM</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/류태훈.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "0d40dc424497",
+    "group": "Graduate Students",
+    "name": "Inhyeok Choi (최인혁)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"mailto:tim2932@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D generation, vision</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/최인혁.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "8c95ec4659bf",
+    "group": "Graduate Students",
+    "name": "Seungheon Jeong (정승헌)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"mailto:sypsss@unist.ac.kr\">Email</a> ]<br><strong>Interest: Robot Vision, VLA</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/정승헌.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "30f7b5c14a41",
+    "group": "Graduate Students",
+    "name": "Chanwoo Lee (이찬우)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"mailto:dlcksdn1201@unist.ac.kr\">Email</a> ]<br><strong>Interest: Robot Vision, 3D Reconstruction</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/이찬우.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "d98ae91dbf52",
+    "group": "Graduate Students",
+    "name": "Seunghyun Seo (서승현)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/shs332\">Github</a> | <a href=\"mailto:gogogo0312@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Reconstruction, Vision Language Model</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/서승현.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "a87e82eb88f9",
+    "group": "Graduate Students",
+    "name": "Juhan Oh (오주한)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/sumjingangcat\">Github</a> | <a href=\"mailto:juhan.oh@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Reconstruction, Inverse Rendering</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/03/오주한-1.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "d909e3edaabc",
+    "group": "Graduate Students",
+    "name": "Chaeeun Moon (문채은)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[&nbsp;<a href=\"mailto:cemoon@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Reconstruction, Computational imaging</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/03/문채은.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "8f08e0e87c8a",
+    "group": "Graduate Students",
+    "name": "Dongjae Jeong (정동재)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"mailto:jeong_dongjae@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Reconstruction, 3D Perception</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/03/정동재.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "5c31f8bbef4b",
+    "group": "Graduate Students",
+    "name": "Dongkyu Doo (두동규)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"https://github.com/dooeverything\">Github</a> | <a href=\"mailto:ddoo@unist.ac.kr\">Email</a> ]<br><strong>Interest: 3D Generation</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/08/두동규.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "d09a86147690",
+    "group": "Graduate Students",
+    "name": "Sebin Lee (이세빈)",
+    "position": "MS Course",
+    "body": "<p>[ <a href=\"https://github.com/sebinyday/\">Github</a> | <a href=\"https://sebinyday.github.io/\">Web</a> | <a href=\"mailto:sebinlee@unist.ac.kr\">Email</a> ]<br><strong>Interest: Robot Vision, Robot Manipulation</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/08/이세빈.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "cb5b78f460b9",
+    "group": "Graduate Students",
+    "name": "Aron Lee (이아론)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[&nbsp;Email ]<br><strong>Interest: TBD</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/08/이아론.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "97edef421517",
+    "group": "Graduate Students",
+    "name": "Jeonghwan Lee (이정환)",
+    "position": "MS-Ph.D Integrated Course",
+    "body": "<p>[ <a href=\"https://github.com/dirac042\">Github</a> | <a href=\"mailto:cemo123@unist.ac.kr\">Email</a> ]<br><strong>Interest: TBD</strong></p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/08/이정환.jpg",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "7b2dd7789611",
+    "group": "Staff",
+    "name": "Sunyoung Kim (김선영)",
+    "position": "Administrative staff",
+    "body": "<p>[&nbsp;<a href=\"mailto:dividivi@unist.ac.kr\">Email</a> ]</p>",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/03/김선영.png",
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "183d9ee03763",
+    "group": "Interns",
+    "name": "Donghyeon Soon (순동현)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "ff2e3503b6aa",
+    "group": "Interns",
+    "name": "Sanghun Pyo (표상훈)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "2e9bec92a489",
+    "group": "Interns",
+    "name": "Seokhyeon Park (박석현)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "4082b8259b2e",
+    "group": "Interns",
+    "name": "Taebok Lee (이태복)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "b0eb1baf1814",
+    "group": "Interns",
+    "name": "Dongmyeong Lee (이동명)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "c159843d6346",
+    "group": "Interns",
+    "name": "Joongwoo Kim (김중우)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "dcd4282e8c80",
+    "group": "Interns",
+    "name": "Hyeongjin Noh (노형진)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "396523db281a",
+    "group": "Interns",
+    "name": "Jinwoo Park (박진우)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "0c7244c5c316",
+    "group": "Interns",
+    "name": "Huiseong Lee (이희성)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "87b05d3e201a",
+    "group": "Interns",
+    "name": "Hwangbo Cheoljun (황보철준)",
+    "position": "",
+    "body": "",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "06a869c54e33",
+    "group": "Alumni",
+    "name": "Jeongin Park (박정인)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/Jeongin-park\">Github</a>&nbsp;| <a href=\"mailto:parkjungin1234@gmail.com\">Email</a> ]<br>Job: LiDAR-based perception solution developer @ SOSLAB</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "222752d3e0a0",
+    "group": "Alumni",
+    "name": "Minseok Kim (김민석)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/BupyeongHealer\">Github</a> | <a href=\"https://www.linkedin.com/in/minseok-kim-010756146/\">LinkedIn</a> | <a href=\"mailto:hello.min0704@gmail.com\">Email</a> | <a href=\"https://bupyeonghealer.github.io/\">Web</a> ]<br>Job: AI Senior Research Engineer @ KT</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "fd8c38ee1343",
+    "group": "Alumni",
+    "name": "Kyongjun Kim (김경준)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/kimkj38\">Github</a> | <a href=\"https://www.linkedin.com/in/kyongjun-kim-5ba04a209/\">LinkedIn</a> | <a href=\"mailto:kimkj389@gmail.com\">Email</a> ]<br>Job: AI Research Engineer @ Visionary</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "b94ed0bef8aa",
+    "group": "Alumni",
+    "name": "Jaehoon Jang (장재훈)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/jjhooon\">Github</a> | <a href=\"https://www.linkedin.com/in/jaehoon-jang\">LinkedIn</a> | <a href=\"mailto:wkdwogns1997@gmail.com\">Email</a> | <a href=\"https://jjhooon.github.io/\">Web</a> ]<br>Job: Generative AI Research Engineer @ Smilegate AI</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "d1a8b6774ddc",
+    "group": "Alumni",
+    "name": "Harin Park (박하린)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/Harin99\">Github</a> | <a href=\"https://www.linkedin.com/in/harin0201\">LinkedIn</a> | <a href=\"mailto:harinp3399@gmail.com\">Email</a> | <a href=\"https://harin99.github.io/\">Web</a> ]<br>Job: AI Researcher @ HD한국조선해양</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "528b9125494d",
+    "group": "Alumni",
+    "name": "Minje Kim (김민제)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/minje-KIM\">Github</a> | <a href=\"https://www.linkedin.com/in/minje-kim-8b804916a/\">LinkedIn</a> | <a>Email</a> | <a href=\"https://slamwithme.oopy.io/\">Web</a> ]<br>Job: 로봇지능팀 전임연구원 @KRM</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "c3e88e93173f",
+    "group": "Alumni",
+    "name": "Jinhyeok Kim (김진혁)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://jinhyeok-kim.notion.site\">Web</a> | <a href=\"mailto:jinhyuk@unist.ac.kr\">Email</a> ]<strong><br></strong></p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "eb3999aed3eb",
+    "group": "Alumni",
+    "name": "Seungoh Han (한승오)",
+    "position": "MS",
+    "body": "<p>[ <a href=\"https://github.com/seung0h/\">Github</a>&nbsp;| <a href=\"https://www.linkedin.com/in/seungohhan/\">LinkedIn</a> | <a href=\"mailto:so.h4ns@gmail.com\">Email</a> | <a href=\"https://seung0h.github.io\">Web</a> ]<br>Job: ML Researcher @ CLO Virtual Fashion</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  },
+  {
+    "id": "8ff2dba47d75",
+    "group": "Alumni",
+    "name": "Yongjun Choi (최용준)",
+    "position": "MS",
+    "body": "<p><strong>[</strong> <a href=\"https://www.linkedin.com/in/yongjun-choi-b84546279/\">Linkedin</a> | <a href=\"mailto:ccyjun123@unist.ac.kr\">Email</a><strong> ]<br></strong>Job: AI Engineer @ POSCO DX</p>",
+    "imageSource": null,
+    "source": "https://unist.info/?page_id=2181"
+  }
+]

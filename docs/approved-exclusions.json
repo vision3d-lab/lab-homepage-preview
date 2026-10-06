@@ -1,0 +1,337 @@
+{
+  "sourceCommit": "5a918a0612b3efeb33d1b8851e7cb080f41cb336",
+  "reason": "Researcher approved omitting only these unused duplicate images from publishing; originals and LighthouseGS copies stay in Git.",
+  "files": [
+    {
+      "path": "mambadance/static/images/comparisons/bedroom/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/bedroom/3dgs.png",
+      "sha256": "ccac9f92bfae272db574a53c68ae54adbb9e1849f88be353c70c2494e57094fa",
+      "bytes": 2929901
+    },
+    {
+      "path": "mambadance/static/images/comparisons/bedroom/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/bedroom/dngaussian.png",
+      "sha256": "623b4975b5c3083670cbe68c5876719e99aec885ea9d455ac182f0838b8f1d53",
+      "bytes": 2104825
+    },
+    {
+      "path": "mambadance/static/images/comparisons/bedroom/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/bedroom/geogaussian.png",
+      "sha256": "50eed858c95361da6f493d9eea60408045179c19708a99ccb826c5ab2e2dd995",
+      "bytes": 2713972
+    },
+    {
+      "path": "mambadance/static/images/comparisons/bedroom/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/bedroom/ours.png",
+      "sha256": "cf5ca38d956bb5bbfb3b8d57208e95e8cd1512b194b0b5d411fb6c39473350b6",
+      "bytes": 2652045
+    },
+    {
+      "path": "mambadance/static/images/comparisons/bedroom/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/bedroom/scaffoldgs.png",
+      "sha256": "98d15f9bbf478614f74c68ff542d3c8a10782d2bb716abd96d51f4a801850d55",
+      "bytes": 2596102
+    },
+    {
+      "path": "mambadance/static/images/comparisons/conference/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/conference/3dgs.png",
+      "sha256": "6d5ae621bf9ac920bfed97539ed9292ff2428f3936cae306896c13d5bcdf44bd",
+      "bytes": 3418472
+    },
+    {
+      "path": "mambadance/static/images/comparisons/conference/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/conference/dngaussian.png",
+      "sha256": "e706b060d8b06c495d9a8cc00049191570d9e0290a62ba4e47f65c0d61c927ae",
+      "bytes": 3212371
+    },
+    {
+      "path": "mambadance/static/images/comparisons/conference/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/conference/geogaussian.png",
+      "sha256": "52c841902fdf10fbbf11de1d7fd4c1f038dc124027d9bdb079e7ee577ea70db4",
+      "bytes": 3390243
+    },
+    {
+      "path": "mambadance/static/images/comparisons/conference/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/conference/ours.png",
+      "sha256": "b51adbf53caac7d03b5978a250868a8e93d0633288857497f0c9a31671af1b60",
+      "bytes": 3060185
+    },
+    {
+      "path": "mambadance/static/images/comparisons/conference/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/conference/scaffoldgs.png",
+      "sha256": "1048a70004e5b7420403c4d268df074f54d416e04f53d8a53318f686975bb1de",
+      "bytes": 3296747
+    },
+    {
+      "path": "mambadance/static/images/comparisons/dressing/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/dressing/3dgs.png",
+      "sha256": "ce8d65a6b5948c9e57cc3c011321b6cf87c6c3e38ce31b6fc77dedf6fb80dca9",
+      "bytes": 7034506
+    },
+    {
+      "path": "mambadance/static/images/comparisons/dressing/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/dressing/dngaussian.png",
+      "sha256": "de50b78cb4bd7eb45e30923f04875202ef7321571133bbf6d55736ef6df221be",
+      "bytes": 5062365
+    },
+    {
+      "path": "mambadance/static/images/comparisons/dressing/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/dressing/geogaussian.png",
+      "sha256": "69cb21d5a6beed761f27c24416af76991a23601a65df95af45085a61a021424a",
+      "bytes": 7199238
+    },
+    {
+      "path": "mambadance/static/images/comparisons/dressing/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/dressing/ours.png",
+      "sha256": "fe75dd15ac6d875cbdc42b9f51c0aa6e7a3bd3cbebe178364c789f7225ee621b",
+      "bytes": 5975241
+    },
+    {
+      "path": "mambadance/static/images/comparisons/dressing/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/dressing/scaffoldgs.png",
+      "sha256": "fe026ac311430101c264bf9ad460388ad1d13ef3701f9d15717ba7c28ee05a67",
+      "bytes": 5691678
+    },
+    {
+      "path": "mambadance/static/images/comparisons/living/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/living/3dgs.png",
+      "sha256": "cfbb669c3c6379112250bc5947eba1a70430a94af83bd93dfc9299c63e65018d",
+      "bytes": 3486993
+    },
+    {
+      "path": "mambadance/static/images/comparisons/living/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/living/dngaussian.png",
+      "sha256": "a0da985f90cd2978cf3ce4706d5019be9d55fcfac8fb706618229ab38d686b97",
+      "bytes": 3067584
+    },
+    {
+      "path": "mambadance/static/images/comparisons/living/gegogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/living/gegogaussian.png",
+      "sha256": "658af93316ac20d788e4e85ef31d8d08011cf3f536fa4f7c32aca8e7e2e9dc6e",
+      "bytes": 3357856
+    },
+    {
+      "path": "mambadance/static/images/comparisons/living/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/living/ours.png",
+      "sha256": "a3032c5425dc18a78df81d07cdf791e8a0099d1e184b237e341930b497f200e1",
+      "bytes": 3120378
+    },
+    {
+      "path": "mambadance/static/images/comparisons/living/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/living/scaffoldgs.png",
+      "sha256": "f4082c9f8e35200d7ec20f432493d481e835f026ee768d373ebcaed1084c241c",
+      "bytes": 3420267
+    },
+    {
+      "path": "mambadance/static/images/comparisons/lounge/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/lounge/3dgs.png",
+      "sha256": "4e2ee9fcbef583f6088b45928bb214349862007c0148b9b3190284545d16598b",
+      "bytes": 5732841
+    },
+    {
+      "path": "mambadance/static/images/comparisons/lounge/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/lounge/dngaussian.png",
+      "sha256": "ba9a83c43c585523a3f2575c232f23fd1afc0caa2ab357c7a95af5c5f1de62a5",
+      "bytes": 4917345
+    },
+    {
+      "path": "mambadance/static/images/comparisons/lounge/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/lounge/geogaussian.png",
+      "sha256": "ec3318393608ec6c9833ca8747f6b1f3073cdf69eb83f08e38a5994f461f789a",
+      "bytes": 5737495
+    },
+    {
+      "path": "mambadance/static/images/comparisons/lounge/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/lounge/ours.png",
+      "sha256": "2318b93b6362696d9ca03eef576133945a9db2f71ecfdabe9349586c8240e344",
+      "bytes": 5644511
+    },
+    {
+      "path": "mambadance/static/images/comparisons/lounge/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/lounge/scaffoldgs.png",
+      "sha256": "2a89c2eac4df3d915e0f7c0039a8d4f65d89510f7da1f36212459ba1e5181e68",
+      "bytes": 5528951
+    },
+    {
+      "path": "mambadance/static/images/comparisons/meeting/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/meeting/3dgs.png",
+      "sha256": "7c986b9e611fa584b05a5d6ff3b53a26b41a691fdaed5d58ba29a224ca4240e3",
+      "bytes": 6946802
+    },
+    {
+      "path": "mambadance/static/images/comparisons/meeting/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/meeting/dngaussian.png",
+      "sha256": "0430ce8135a1e53e3f07e0c5a9527c4398fb83db35c3d4de0d43c5e7d0a32c36",
+      "bytes": 5491677
+    },
+    {
+      "path": "mambadance/static/images/comparisons/meeting/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/meeting/geogaussian.png",
+      "sha256": "eee8d51b37825216b3a2bbf7fb353fa43d81ba252bdfed35a9609831f878f93b",
+      "bytes": 7329586
+    },
+    {
+      "path": "mambadance/static/images/comparisons/meeting/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/meeting/ours.png",
+      "sha256": "6d34bbce0a02a8bd2232bfd0da6889eb22500e97495fb18e787a5523d5dd60e2",
+      "bytes": 5601926
+    },
+    {
+      "path": "mambadance/static/images/comparisons/meeting/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/meeting/scaffoldgs.png",
+      "sha256": "90b5c590046963e09485d5183987542a6b93f67dd871697a7f039a3afcbc0292",
+      "bytes": 7330873
+    },
+    {
+      "path": "mambadance/static/images/comparisons/pantry/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/pantry/3dgs.png",
+      "sha256": "59b718cb1d12f80c8740c11f7d4a3b32d0b5a3366b03627b547806a3c9fd7406",
+      "bytes": 3477416
+    },
+    {
+      "path": "mambadance/static/images/comparisons/pantry/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/pantry/dngaussian.png",
+      "sha256": "6c3d33fa9e6e4ec101c5cb9ed34f8e57c5090d23f61f2e2b16ee472761e45773",
+      "bytes": 3093887
+    },
+    {
+      "path": "mambadance/static/images/comparisons/pantry/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/pantry/geogaussian.png",
+      "sha256": "2ed955f0dbf980077ec88a4158370d847b6b70256bc42e1c63fa312b123c7fa4",
+      "bytes": 3298139
+    },
+    {
+      "path": "mambadance/static/images/comparisons/pantry/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/pantry/ours.png",
+      "sha256": "2e9777f105504c076c2459be061580fa5c3dc61cbc96a3323b7b33d225df9e26",
+      "bytes": 3365833
+    },
+    {
+      "path": "mambadance/static/images/comparisons/pantry/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/pantry/scaffoldgs.png",
+      "sha256": "6d77c22a85802474196ebb0bfe34c812b1ce59abe46de6c71282b83af01357be",
+      "bytes": 3339344
+    },
+    {
+      "path": "mambadance/static/images/comparisons/playroom/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/playroom/3dgs.png",
+      "sha256": "e01924d60e58b232c391b2de8e26fafc85630bf0c11dd1f5a9c33b4720726723",
+      "bytes": 2567278
+    },
+    {
+      "path": "mambadance/static/images/comparisons/playroom/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/playroom/dngaussian.png",
+      "sha256": "b43589ce73d015bab940600eeb22fa431f49d616dcd3c513bba07d96f34d12e6",
+      "bytes": 2510342
+    },
+    {
+      "path": "mambadance/static/images/comparisons/playroom/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/playroom/geogaussian.png",
+      "sha256": "0dd8a2bc860819f7afe8fda6eee9851e6bd97c2b545520d608d70fd55fe83a30",
+      "bytes": 2545940
+    },
+    {
+      "path": "mambadance/static/images/comparisons/playroom/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/playroom/ours.png",
+      "sha256": "fc16ad9c1d78e6913401cdc44ab0f854b08b4f0d7d1d2579562c5a8bf01b1045",
+      "bytes": 2130879
+    },
+    {
+      "path": "mambadance/static/images/comparisons/playroom/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/playroom/scaffoldgs.png",
+      "sha256": "0fa3fe685423f1fc0755b8bd29f029ed31c8432b58346cf10911c8fcb00bdd8b",
+      "bytes": 2415859
+    },
+    {
+      "path": "mambadance/static/images/comparisons/primary_bedroom/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/primary_bedroom/3dgs.png",
+      "sha256": "de72443b0f9b956bddf934814f8e718a27aa464a52c869f1fe63b54a39c3213b",
+      "bytes": 4067408
+    },
+    {
+      "path": "mambadance/static/images/comparisons/primary_bedroom/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/primary_bedroom/dngaussian.png",
+      "sha256": "213b04fd941f41dedd33a936988e9b40d63625cf686e623ba85050d6ea2c432b",
+      "bytes": 3199508
+    },
+    {
+      "path": "mambadance/static/images/comparisons/primary_bedroom/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/primary_bedroom/geogaussian.png",
+      "sha256": "cc77477c9fdbb458a57a31d6e754dbeff3d11e35ed39230b626ffa7de4f2f396",
+      "bytes": 3795687
+    },
+    {
+      "path": "mambadance/static/images/comparisons/primary_bedroom/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/primary_bedroom/ours.png",
+      "sha256": "ebf00352ccf10b3a9c0d14d04b7886518a3af9e81ad9c8a071b0833baeca1e16",
+      "bytes": 3359960
+    },
+    {
+      "path": "mambadance/static/images/comparisons/primary_bedroom/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/primary_bedroom/scaffoldgs.png",
+      "sha256": "ebe5332b426cf23b54c4d110a9e4d163b866cd4375471184e4ad08a2cf4979e2",
+      "bytes": 3550077
+    },
+    {
+      "path": "mambadance/static/images/comparisons/studio/3dgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/studio/3dgs.png",
+      "sha256": "2b4bb6625fe252ea71571435f55c1e2852656c5ff709f0955c6586d4c4c479d7",
+      "bytes": 3725876
+    },
+    {
+      "path": "mambadance/static/images/comparisons/studio/dngaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/studio/dngaussian.png",
+      "sha256": "72c0846eb5679b966ab2cf5f0908626986adc77c02c0a6d35516eead0e8bdc69",
+      "bytes": 3046689
+    },
+    {
+      "path": "mambadance/static/images/comparisons/studio/geogaussian.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/studio/geogaussian.png",
+      "sha256": "b7e00ba5c4948e408f49b9c818104dd926fbc39f5f1169ae276fcda151664ea8",
+      "bytes": 3499160
+    },
+    {
+      "path": "mambadance/static/images/comparisons/studio/ours.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/studio/ours.png",
+      "sha256": "93ba8a1a34f5f3202ddc90b5d152da3f67cb134d3e42266cdb2c12365ae7ddea",
+      "bytes": 3353782
+    },
+    {
+      "path": "mambadance/static/images/comparisons/studio/scaffoldgs.png",
+      "preservedCopy": "lighthousegs/static/images/comparisons/studio/scaffoldgs.png",
+      "sha256": "df43807b950e82e0fb7f1bf99f49b94a4590741ab0902269bf32a31386f8730c",
+      "bytes": 3324072
+    },
+    {
+      "path": "mambadance/static/images/lighthouseGS_pipeline.png",
+      "preservedCopy": "lighthousegs/static/images/lighthouseGS_pipeline.png",
+      "sha256": "924e0a9edbc17683e049141ff2cba58e98b999120779fb2d89b752a86c9b2d6d",
+      "bytes": 684900
+    },
+    {
+      "path": "mambadance/static/images/lighthouseGS_teaser.png",
+      "preservedCopy": "lighthousegs/static/images/lighthouseGS_teaser.png",
+      "sha256": "33bced99d76165cede7ec087eb08044c3908a1725dd46722d68824d4fe53c093",
+      "bytes": 5857998
+    }
+  ],
+  "unusedCodeGuard": {
+    "mambadance/index.html": "6d30b75d706714050243db5e6c6235f3a194bdb66cd16a72486a8f79328848e8",
+    "mambadance/static/css/bulma-slider.min.css": "9bd5f05ad71360d0e87f21dd3d07d94c080486342f335ff041f5394c6aa6dac9",
+    "mambadance/static/css/dics.original.css": "ea35d8df84e02d310dcaee0839c827b4a28dcc08deb6205ea7e67b411127135b",
+    "mambadance/static/css/index.css": "e4b0b0357120ab1785d1ed8021c1ddf34736a2abac3ec90d0ebd7ff3205fe680",
+    "mambadance/static/css/fontawesome.all.min.css": "af1e6edc875a382b338bb25bd7c5c3f474a7f1b36212002a5896dd06f2186325",
+    "mambadance/static/css/bulma-carousel.min.css": "9d586b0d953f9dedc8ff3e8b5d611bc943849afefdb0f18a11bb0fed258b9072",
+    "mambadance/static/css/bulma.min.css": "58b28659220961ead137cb5b346b5759562750ce703094d70fc786e0db467033",
+    "mambadance/static/css/bootstrap-4.4.1.css": "8cdde412e9e562b557b9cf7b8ea8e5ac4ddd96b2a3775ad76155947984f2d26f",
+    "mambadance/static/js/video_comparison.js": "ec9c5c861142b6d963ec408540555b10466e85520d698949316ae923d6276351",
+    "mambadance/static/js/bulma-slider.js": "a77efa04a36ff2815e057a0bf0ee911216f3c03904b94726018d636057f1e723",
+    "mambadance/static/js/index.js": "a56475dc8126e4b987278930fec06dfc8d62f9b32e4f9d638809efe567a89aca",
+    "mambadance/static/js/event_handler.js": "ee1408c2cb1def36792dd78e8c03c1d7c77fd036ed673d169a72b5c685b08369",
+    "mambadance/static/js/fontawesome.all.min.js": "20a3ef6979bbe5e4de1afaecc703e1d34cbc5e3ceab36d378539506327692d72",
+    "mambadance/static/js/bulma-carousel.min.js": "a8a47bef2cd50640d82aea128360690086ccb6617c6858ee4c71559c88e4a732",
+    "mambadance/static/js/bulma-slider.min.js": "e520e9ef6e3223ecfbb50b4649d238af5a85af9161800ad1d003dac80d748f24",
+    "mambadance/static/js/dics.original.js": "ca43c85051cae06186a831d3812685a80dac800439e5262aa098ff5b0a242393",
+    "mambadance/static/js/bulma-carousel.js": "ee6667c8ae6dabe1bb14d8792b32687fb9d130c31f3dcf582b03c611c2f0edf1"
+  }
+}

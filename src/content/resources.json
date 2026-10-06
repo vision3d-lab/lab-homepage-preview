@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c271cca870c2",
+    "category": "Robot",
+    "title": "Go 2",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/01/img02_0601_detail01.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "723ce36cf7ac",
+    "category": "Robot",
+    "title": "Jackal (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/01/jackal.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "1a1b18fb1564",
+    "category": "Robot",
+    "title": "Franka (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Franka.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "32a80401eaf3",
+    "category": "Robot",
+    "title": "Symphony5",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Symphony5.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "c15c2dd8cfab",
+    "category": "Robot",
+    "title": "XArm7",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/xArm7.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "eb893c686c88",
+    "category": "Robot",
+    "title": "UR5e",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/UR5e.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "e356228b7aac",
+    "category": "Robot",
+    "title": "SO-100, 101",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/SO-100-101.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "ca4b8484a36f",
+    "category": "Sensor",
+    "title": "FLIR-BFS_series (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/FLIR-BFS_series.jpeg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "ce08604f4c68",
+    "category": "Sensor",
+    "title": "Gelsight_mini (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Gelsight_mini.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "79664aaa0945",
+    "category": "Sensor",
+    "title": "Intel Realsense D435i (8EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Realsense_d435i.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "54e3dbfba3a1",
+    "category": "Sensor",
+    "title": "Intel Realsense D455 (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Intel-Realsense-D455.jpeg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "2ac10e9185d3",
+    "category": "Sensor",
+    "title": "Intel Realsense D405 (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Realsense_d405.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "be80db72c1e1",
+    "category": "Sensor",
+    "title": "Davis346 (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/01/thumb-2040886626_yj39GWsI_958e4c37e8ba200f48ad33cb7007651d06df1e84_400x267.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "3e210bf1b058",
+    "category": "Sensor",
+    "title": "Velodyne Ultra Puck VLP-32C",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Velodyne-Ultra-Puck-VLP-32C.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "ae401d6d4940",
+    "category": "Sensor",
+    "title": "OptiTrack flex",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/OptiTrack_flex.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "b557a6e34c08",
+    "category": "Sensor",
+    "title": "ZED Mini (1EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/zed_mini-pdf.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "dcd5445328ea",
+    "category": "Sensor",
+    "title": "ZED X (1EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/zed_x-pdf.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "650ca91593df",
+    "category": "Sensor",
+    "title": "Livox Mid-360 (2EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/mid360-pdf.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "b58d6b0b48ab",
+    "category": "Sensor",
+    "title": "NovAtel GNSS/RTK System (1EA)",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2026/04/novatel_gnss-pdf.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "8de091435b6d",
+    "category": "Etc.",
+    "title": "Bamboo X1C",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Bamboo_X1C.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "4f093d0eb1a4",
+    "category": "Etc.",
+    "title": "InspireRobots RH56DFX",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/InspireRobots_RH56DFX.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "0060cd7f88c0",
+    "category": "Etc.",
+    "title": "Franka gripper",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Franka_gripper.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "736410707103",
+    "category": "Etc.",
+    "title": "Robotiq 2f85",
+    "body": "",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/12/Robotiq_2f85.png",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "aef7de28d529",
+    "category": "Server",
+    "title": "Server Resource (total 110 GPUs):",
+    "body": "<blockquote> <p>RTX Pro6000 Blackwell (96GB) 8EA</p> <p>RTX A6000 (48GB) 24EA</p> <p>RTX A5000 (24GB) 10EA</p> <p>TESLA V100 (32GB) 8EA</p> <p>RTX 4090 (24GB) 12EA</p> <p>RTX 3090 (24GB) 40EA</p> </blockquote>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/03/mining-2648005_1920.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  },
+  {
+    "id": "f50546f9bc91",
+    "category": "WorkStation",
+    "title": "WorkStation Resource (total 24 GPUs):",
+    "body": "<blockquote> <p>RTX A6000 (48GB) 4EA<br>RTX 4090 (24GB) 4EA<br>RTX 3090Ti (24GB) 4EA<br>RTX 3090 (24GB) 4EA</p> <p>RTX 2080Ti (11GB) 2EA<br>RTX 1080Ti (11GB) 4EA</p> <p>GTX 1080 (8GB) 2EA</p> </blockquote>",
+    "imageSource": "http://unist.info/wp-content/uploads/2025/03/anthony-roberts-fMbiAi0rbkA-unsplash-scaled.jpg",
+    "source": "https://unist.info/?page_id=1534"
+  }
+]

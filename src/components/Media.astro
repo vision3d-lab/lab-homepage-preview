@@ -1,0 +1,6 @@
+---
+import {asset,href} from '../lib/site';
+interface Props{source:string|null|undefined;alt:string;class?:string;eager?:boolean}
+const {source,alt,class:className='',eager=false}=Astro.props;const item=asset(source);
+---
+{item?(item.kind==='video'?<video class={className} src={href(item.path)} poster={item.poster?href(item.poster):undefined} aria-label={alt} autoplay loop muted playsinline preload="metadata" width={item.width} height={item.height}></video>:<img class={className} src={href(item.path)} alt={alt} width={item.width} height={item.height} loading={eager?'eager':'lazy'} decoding="async"/>):<div class:list={['media-unavailable',className]} role="img" aria-label={alt}>{alt}</div>}

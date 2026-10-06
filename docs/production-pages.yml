@@ -1,0 +1,64 @@
+# Candidate for the official repository after completed-preview approval.
+name: Build combined lab site
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: official-lab-pages-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      ASTRO_TELEMETRY_DISABLED: 1
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: lab-site/package-lock.json
+      - run: npm ci && npm test && npm run build
+        working-directory: lab-site
+        env:
+          SITE_MODE: production
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Combine with preservation and size guards
+        run: node lab-site/scripts/merge-production.mjs . _site lab-site/dist combined-site
+      - name: Prepare legacy entry recovery package
+        run: |
+          cp -a combined-site rollback-site
+          cp combined-site-legacy-index.html rollback-site/index.html
+          tar -czf legacy-entry.tar.gz -C rollback-site .
+          test "$(stat -c%s legacy-entry.tar.gz)" -lt 1000000000
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legacy-entry-recovery
+          path: |
+            legacy-entry.tar.gz
+            combined-site-verification.json
+          retention-days: 30
+      - uses: actions/upload-pages-artifact@v4
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        with:
+          path: combined-site
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

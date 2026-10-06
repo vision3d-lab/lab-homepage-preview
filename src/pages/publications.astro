@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';import Media from '../components/Media.astro';import items from '../content/publications.json';import {localHTML} from '../lib/site';const years=[...new Set(items.map(x=>x.year))];
+---
+<Layout title="Publications"><nav class="year-nav compact" aria-label="Publication years">{['2026','2025','2024','~2023'].map(y=><a href={`#year-${y==='~2023'?'2023':y}`}>{y}</a>)}</nav>{years.map(year=><section class="year-section" id={`year-${year}`}><h2>{year}</h2>{[...new Set(items.filter(x=>x.year===year).map(x=>x.type))].map(type=><div class="publication-group"><h3>{type}</h3>{items.filter(x=>x.year===year&&x.type===type).map(item=><article class="publication" data-record-id={item.id}><Media source={item.imageSource} alt={item.title}/><div class="prose publication-text" set:html={localHTML(item.body)}></div></article>)}</div>)}</section>)}</Layout>

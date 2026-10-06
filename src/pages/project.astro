@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';import Media from '../components/Media.astro';import projects from '../content/projects.json';import {localHTML} from '../lib/site';
+---
+<Layout title="Project">{['On-going projects','Past projects'].map(status=><section class="project-section"><h2>{status}</h2>{projects.filter(x=>x.status===status).map(item=><article class="project-entry" data-record-id={item.id}><Media source={item.imageSource} alt={item.title}/><div class="prose" set:html={localHTML(item.body)}></div></article>)}</section>)}</Layout>

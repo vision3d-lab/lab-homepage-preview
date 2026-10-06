@@ -1,0 +1,12 @@
+---
+import Media from './Media.astro';
+interface Props{slides:{id:string;imageSource:string;alt:string}[];label:string;auto?:boolean}
+const {slides,label,auto=true}=Astro.props;
+---
+<section class="carousel" aria-label={label} aria-roledescription="carousel" data-carousel data-auto={String(auto)}>
+ <div class="slides">{slides.map((slide,i)=><div class="slide" data-slide hidden={i>0} role="group" aria-roledescription="slide" aria-label={`${i+1} of ${slides.length}`}><Media source={slide.imageSource} alt={slide.alt} eager={i===0}/></div>)}</div>
+ <div class="carousel-arrows"><button data-prev aria-label={`Previous ${label} slide`}>‹</button><button data-next aria-label={`Next ${label} slide`}>›</button></div>
+ <div class="carousel-dots">{slides.map((_,i)=><button data-dot={i} aria-label={`Show ${label} slide ${i+1}`} aria-pressed={i===0}></button>)}</div>
+ <button class="carousel-pause" data-pause aria-label={`Pause ${label} slideshow`} aria-pressed="false">Ⅱ</button>
+ <span class="sr-only" data-slide-status aria-live="polite"></span>
+</section>

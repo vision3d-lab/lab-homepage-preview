@@ -1,0 +1,54 @@
+name: Existing project compatibility
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/merge-production.mjs
+      - docs/approved-exclusions.json
+      - docs/production-jekyll.yml
+      - src/**
+      - public/**
+      - package-lock.json
+      - .github/workflows/compatibility.yml
+permissions:
+  contents: read
+jobs:
+  compatibility:
+    runs-on: ubuntu-latest
+    env:
+      ASTRO_TELEMETRY_DISABLED: 1
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/checkout@v6
+        with:
+          repository: vision3d-lab/vision3d-lab.github.io
+          path: existing
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          SITE_MODE: production
+      - run: cp docs/production-jekyll.yml existing/_config.yml
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./existing
+          destination: ./jekyll-output
+      - run: node scripts/merge-production.mjs existing jekyll-output dist combined-site
+      - name: Build recovery package with original entry
+        run: |
+          cp -a combined-site rollback-site
+          cp combined-site-legacy-index.html rollback-site/index.html
+          tar -czf legacy-entry.tar.gz -C rollback-site .
+          test "$(stat -c%s legacy-entry.tar.gz)" -lt 1000000000
+      - uses: actions/upload-artifact@v4
+        with:
+          name: migration-compatibility-and-recovery
+          path: |
+            combined-site-verification.json
+            combined-site-legacy-index.html
+            legacy-entry.tar.gz
+          retention-days: 30
