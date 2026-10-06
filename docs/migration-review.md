@@ -39,7 +39,7 @@ The final source-to-rendered text audit passed all 457 captured text/profile/tim
 - [Preview deployment](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259921): passed.
 - [Project compatibility and recovery](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982): passed with **23 projects / 684 preserved files**, **970,664,747 published bytes**, and a conservative uncompressed tar bound of **973,017,600 bytes**.
 - [Recovery package](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982/artifacts/11429047760): generated and uploaded, 943,460,123 bytes including archive wrapping. Retained for 30 days; regenerate it before a later production transition.
-- Live preview: **11 routes + 277 asset/endpoint URLs** passed; every route has noindex. Homepage build is **19,187,803 bytes**.
+- Live preview: **11 routes + 277 asset/endpoint URLs** passed; every route has noindex. The final local homepage build is **19,190,453 bytes**.
 - Existing live projects: **23/23 entry URLs** passed; **348 asset/entry URLs** checked. All 50 LighthouseGS comparison images responded successfully. 14 failing asset URLs match pre-existing missing files; these are included in `live-project-check.json`. No existing project bytes were changed.
 - News/Home and publication addition examples rendered in an isolated candidate; duplicate news content failed validation. Sample records were never deployed.
 
@@ -49,7 +49,7 @@ The [executed failure-gate proof](https://github.com/vision3d-lab/lab-homepage-p
 
 ## Executed browser checks
 
-Chrome was operated through its native UI. Desktop rendering was compared with the source at the same window size; responsive emulation was checked at **768 × 844** and **390 × 844**. This is browser emulation, not physical-device or Safari testing.
+Chrome was operated through its native UI. Source and preview were compared at the same desktop window size, and at **768 × 844** and **390 × 844** in responsive emulation. This is browser emulation, not physical-device or Safari testing. The desktop style is retained; smaller screens use wider content columns and proportional slides to keep images and text readable. The four Home section headings retain the source's bold gray treatment.
 
 - Home: original logo, navy/white styling, content width, slide proportions and content order; automatic transitions, pause and slide selection.
 - Navigation: mobile open/close, Members submenu and Students navigation; desktop submenu, Tab traversal and Escape. Escape now restores the toggle's focus and the mobile button's accessible name.
