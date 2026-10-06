@@ -19,7 +19,8 @@ Source metadata, counts, corrections and date inconsistencies are in `src/conten
 1. News title dated `2026.10.01` says CVPR **2027**; the same entry's body says CVPR **2026** in Seattle. Both source statements are retained.
 2. The KIC DC Tech **2026** entry on News says `2025.07.05`; Home says `2026.07`. Both source statements are retained.
 3. Several original publication link labels have no hyperlink. They remain labels rather than guessing a paper URL.
-4. The original paper projects retain their files and any pre-existing missing links or console errors. Their existing Home icons may still point to `unist.info`; changing those project HTML bytes was outside the preservation scope.
+4. A baseline audit found 26 missing local link/asset references across the existing paper HTML (313 local references checked), including placeholder Trip2GS URLs and old `nerfies_paper.pdf` footer links. See `existing-project-baseline.json`. These are source issues, not caused by this migration.
+5. The original paper projects retain their files and any pre-existing missing links or console errors. Their existing Home icons may still point to `unist.info`; changing those project HTML bytes was outside the preservation scope.
 
 Obvious spelling only: `Intergrated` → `Integrated`, `Editional` → `Editorial`. Instagram profile URL was taken from the source, not inferred.
 
@@ -29,4 +30,6 @@ Obvious spelling only: `Intergrated` → `Integrated`, `Editional` → `Editoria
 
 The compatibility workflow builds current existing projects with the official Jekyll action, combines a production Astro build, compares project assets byte-for-byte, and prepares a recovery package. The sole exclusion is the 52 approved unused MambaDance duplicates, totaling 207,263,010 bytes. Original Git files and every LighthouseGS copy are preserved. Frozen MambaDance HTML/CSS/JS hashes force re-review if future code might use those images. Both published-tree bytes and a conservative tar upper bound must remain below 1,000,000,000.
 
-Browser checks and actual workflow outcomes are recorded after execution. A started or queued check is not a pass.
+A source-to-rendered text audit compares every captured text/profile/timeline block, including Recruitment and all six research detail panels. Browser checks and actual workflow outcomes are recorded after execution. A started or queued check is not a pass.
+
+The final source-to-rendered text audit passed all 457 captured text/profile/timeline blocks across the ten text pages; SNS separately preserves all 20 verified post URLs/captions. See `content-audit.json`.

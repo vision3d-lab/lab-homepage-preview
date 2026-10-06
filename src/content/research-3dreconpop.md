@@ -15,12 +15,14 @@ source: "https://unist.info/?page_id=1604"
 
 **Dynamic 3D reconstruction** aims to recover animatable 3D models of articulated subjects—such as humans and animals— that change over time, from limited visual inputs like monocular images or videos. Unlike static reconstruction, it requires not only capturing the shape and texture but also modeling motion-capable structures, making it significantly more challenging under sparse or occluded observations. Our research explores learning-based methods with advanced 3D representations, such as 3D Gaussian Splatting, to produce animatable, realistic reconstructions from sparse observations.
 
-**\[Publication\]  
-**– DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction From A Single Image (IJCV 2025)
+**\[Publication\]**
+
+– DogRecon: Canine Prior-Guided Animatable 3D Gaussian Dog Reconstruction From A Single Image (IJCV 2025)
 
 #### Novel View Synthesis
 
 **Novel View Synthesis (NVS)** is the task of photorealistic rendering of a scene from novel, unseen viewpoints, given one or more images captured from known camera poses. Although Neural Radiance Fields and 3D Gaussian Splatting have demonstrated photorealistic rendering, they often struggle with inaccurate initialization and inconsistent color appearance across different viewpoints. We address these limitations by developing robust scene representations and learning strategies that ensure geometric consistency, accurate appearance modeling even in challenging real-world conditions.
 
-**\[Project\]  
-**– \[Done\] 산학 과제 (오늘의 집)
+**\[Project\]**
+
+– \[Done\] 산학 과제 (오늘의 집)

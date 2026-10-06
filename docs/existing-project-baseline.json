@@ -1,0 +1,160 @@
+{
+  "projects": [
+    "AiSDF",
+    "anigauss",
+    "anigaussplus",
+    "anybald",
+    "contactgen",
+    "corner2tag",
+    "deformsplat",
+    "ditto",
+    "dogrecon",
+    "fedepth",
+    "hush",
+    "kf-vio",
+    "lighthousegs",
+    "lightsplat",
+    "mambadance",
+    "mate",
+    "sf-vo",
+    "soundact",
+    "ssdataset",
+    "trip2gs",
+    "unisim-slam",
+    "vpocc",
+    "wildani4d"
+  ],
+  "checkedLocalReferences": 313,
+  "sourceMissingReferences": [
+    {
+      "page": "corner2tag/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/corner2tag/static/images/favicon.ico"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/images/favicon.ico"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/imgs/comparison_1.mp4"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/imgs/rigid_1.mp4"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/imgs/inter_2.mp4"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/imgs/manipulation.mp4"
+    },
+    {
+      "page": "deformsplat/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/deformsplat/static/imgs/multi_frame_inter_1.mp4"
+    },
+    {
+      "page": "dogrecon/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/dogrecon/static/images/favicon.svg"
+    },
+    {
+      "page": "dogrecon/index.html",
+      "attribute": "src",
+      "url": "https://vision3d-lab.github.io/dogrecon/static/js/fontawesome.all.min.js"
+    },
+    {
+      "page": "dogrecon/index.html",
+      "attribute": "src",
+      "url": "https://vision3d-lab.github.io/dogrecon/static/js/bulma-carousel.min.js"
+    },
+    {
+      "page": "dogrecon/index.html",
+      "attribute": "src",
+      "url": "https://vision3d-lab.github.io/dogrecon/static/js/bulma-slider.min.js"
+    },
+    {
+      "page": "dogrecon/index.html",
+      "attribute": "src",
+      "url": "https://vision3d-lab.github.io/dogrecon/static/js/index.js"
+    },
+    {
+      "page": "hush/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/hush/static/images/favicon.ico"
+    },
+    {
+      "page": "kf-vio/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/kf-vio/static/pdfs/supplementary_material.pdf"
+    },
+    {
+      "page": "lighthousegs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/lighthousegs/static/videos/nerfies_paper.pdf"
+    },
+    {
+      "page": "mambadance/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/mambadance/static/videos/nerfies_paper.pdf"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/static/images/favicon.ico"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/AUTHOR_1_WEBSITE"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/AUTHOR_2_WEBSITE"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/AUTHOR_2_WEBSITE"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/AUTHOR_2_WEBSITE"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/AUTHOR_3_WEBSITE"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/PAPER_URL"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/SUPPLEMENTARY_URL"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/CODE_URL"
+    },
+    {
+      "page": "trip2gs/index.html",
+      "attribute": "href",
+      "url": "https://vision3d-lab.github.io/trip2gs/VIDEO_URL"
+    }
+  ]
+}

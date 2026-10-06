@@ -15,8 +15,9 @@ source: "https://unist.info/?page_id=1604"
 
 **Multimodal policy learning** focuses on integrating diverse sensory and symbolic inputs—such as vision, touch, and language—to enable robots to perceive, reason, and act in complex environments. By combining complementary modalities, robots can overcome the limitations of any single sensor, allowing for more robust perception under occlusion, ambiguity, or noise. The goal is to learn policies that generalize across tasks and environments, supporting applications in manipulation, human-robot interaction, and adaptive control. This field involves challenges such as aligning heterogeneous data, learning cross-modal representations, and ensuring real-time decision-making. 
 
-**\[Project\]  
-**– \[On-going\] 다중 모달 인식에서 지능형 상호작용까지: 물리적 탐색 기반 조작이 가능한 지능형 에이전트 개발 (한국연구재단)
+**\[Project\]**
+
+– \[On-going\] 다중 모달 인식에서 지능형 상호작용까지: 물리적 탐색 기반 조작이 가능한 지능형 에이전트 개발 (한국연구재단)
 
 #### Vision-guided Robotic Grasping
 

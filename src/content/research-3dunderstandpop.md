@@ -15,8 +15,9 @@ source: "https://unist.info/?page_id=1604"
 
 **3D structural understanding** is the process of extracting various information (e.g., depth, normal, layout, detection, semantics) from single or multiple images in various environments such as indoor and outdoor scenarios. This task is a fundamental basis for diverse useful application (e.g., scene reconstruction, novel view synthesis, immersive media creation). Our research explores 3D scene understanding in diverse scenarios, including challenging settings like panoramic imagery, where unique geometric characteristics require careful representation and processing.
 
-**\[Publication\]  
-**– HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics (CVPR 2025)
+**\[Publication\]**
+
+– HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics (CVPR 2025)
 
 #### Language-Grounded 3D Scene Understanding
 

@@ -13,8 +13,9 @@ source: "https://unist.info/?page_id=1604"
 
 **Visual Simultaneous Localization and Mapping (Visual SLAM)** is the task of estimating a system’s own state in real-time by analyzing visual patterns from sequential multi-view images. By extracting and tracking visual features across consecutive images, it reconstructs the 3D structure of the environment while continuously refining the camera’s trajectory. Our research focuses on developing algorithms to enhance robustness and reliability, particularly in challenging scenarios such as texture-less surfaces and dynamic environments.
 
-**\[Project\]  
-**– \[Done\] 멀티 카메라 기반의 슬램 시스템 개발 및 연구 (클로봇)
+**\[Project\]**
+
+– \[Done\] 멀티 카메라 기반의 슬램 시스템 개발 및 연구 (클로봇)
 
 #### Collaborative SLAM
 
@@ -22,11 +23,13 @@ source: "https://unist.info/?page_id=1604"
 
 **Collaborative SLAM** goes a step further by addressing SLAM in multi-agent (robot) systems, where multiple agents work together to simultaneously build a shared map of an environment and localize themselves within it. With inter-robot interaction, agents can achieve more accurate and comprehensive mapping over larger or more complex areas. We explores algorithms and communication strategies that facilitate effective cooperation among agents in indoor environments (e.g., hospital, office), which are commonly encountered by home or service robots.
 
-**\[Publication\]  
-**– A Benchmark Dataset for Collaborative SLAM in Service Environments (RA-L 2024)
+**\[Publication\]**
 
-**\[Project\]  
-**– \[On-going\] AI Bots 협업 플랫폼 및 자기 조직 인공지능 기술 개발 (정보통신기획평가원)
+– A Benchmark Dataset for Collaborative SLAM in Service Environments (RA-L 2024)
+
+**\[Project\]**
+
+– \[On-going\] AI Bots 협업 플랫폼 및 자기 조직 인공지능 기술 개발 (정보통신기획평가원)
 
 #### Event Camera-based Perception
 
@@ -34,5 +37,6 @@ source: "https://unist.info/?page_id=1604"
 
 Compared to conventional cameras that capture full images at fixed intervals, event cameras asynchronously detect only changes in brightness at each pixel. This unique characteristic enables them to sense reliably in high-speed or low-light environments. To fully leverage the low-latency and illumination-robust nature of event cameras, we are researching both standalone and fused use of event sensors with other sensory modalities, addressing diverse tasks such as depth estimation, sensor calibration, and occupancy prediction. Furthermore, our goal is to extend these capabilities into platform-agnostic perception systems that can be deployed across various platforms, including ground robots, quadruped robots, and aerial drones.
 
-**\[Project\]  
-**– \[On-going\] 이기종 에이전트 간 적응 가능한 3차원 공간 인지를 위한 동적 이벤트 카메라 기반 융합 센서팩 개발 (한국연구재단)
+**\[Project\]**
+
+– \[On-going\] 이기종 에이전트 간 적응 가능한 3차원 공간 인지를 위한 동적 이벤트 카메라 기반 융합 센서팩 개발 (한국연구재단)
