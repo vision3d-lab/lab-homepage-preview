@@ -1,0 +1,50 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/news/",
+      "status": 200
+    },
+    {
+      "route": "/professor/",
+      "status": 200
+    },
+    {
+      "route": "/students/",
+      "status": 200
+    },
+    {
+      "route": "/research/",
+      "status": 200
+    },
+    {
+      "route": "/project/",
+      "status": 200
+    },
+    {
+      "route": "/resource/",
+      "status": 200
+    },
+    {
+      "route": "/publications/",
+      "status": 200
+    },
+    {
+      "route": "/contact/",
+      "status": 200
+    },
+    {
+      "route": "/recruitment/",
+      "status": 200
+    },
+    {
+      "route": "/sns/",
+      "status": 200
+    }
+  ],
+  "checkedAssetAndEndpointUrls": 277,
+  "failures": []
+}

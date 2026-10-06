@@ -33,3 +33,14 @@ The compatibility workflow builds current existing projects with the official Je
 A source-to-rendered text audit compares every captured text/profile/timeline block, including Recruitment and all six research detail panels. Browser checks and actual workflow outcomes are recorded after execution. A started or queued check is not a pass.
 
 The final source-to-rendered text audit passed all 457 captured text/profile/timeline blocks across the ten text pages; SNS separately preserves all 20 verified post URLs/captions. See `content-audit.json`.
+
+## Executed automatic checks
+
+- [Preview deployment](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259921): passed.
+- [Project compatibility and recovery](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982): passed with **23 projects / 684 preserved files**, **970,664,747 published bytes**, and a conservative uncompressed tar bound of **973,017,600 bytes**.
+- [Recovery package](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982/artifacts/11429047760): generated and uploaded, 943,460,123 bytes including archive wrapping. Retained for 30 days; regenerate it before a later production transition.
+- Live preview: **11 routes + 277 asset/endpoint URLs** passed; every route has noindex. Homepage build is **19,187,803 bytes**.
+- Existing live projects: **23/23 entry URLs** passed; **348 asset/entry URLs** checked. All 50 LighthouseGS comparison images responded successfully. 14 failing asset URLs match pre-existing missing files; these are included in `live-project-check.json`. No existing project bytes were changed.
+- News/Home and publication addition examples rendered in an isolated candidate; duplicate news content failed validation. Sample records were never deployed.
+
+The optional `validate_failure_gate` workflow-dispatch input injects a duplicate record only inside a temporary runner. Its deliberately failing check must skip deployment, proving the publishing gate without committing broken content.

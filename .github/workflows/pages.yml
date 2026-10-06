@@ -1,9 +1,15 @@
 name: Preview checks and deployment
+run-name: ${{ github.event_name == 'workflow_dispatch' && inputs.validate_failure_gate && 'Expected failure - deployment guard check' || 'Preview checks and deployment' }}
 on:
   push:
     branches: [main]
   pull_request:
   workflow_dispatch:
+    inputs:
+      validate_failure_gate:
+        description: Intentionally reject invalid content and verify deployment is skipped
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency:
@@ -22,6 +28,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
+      - name: Inject invalid candidate for expected-failure proof
+        if: github.event_name == 'workflow_dispatch' && inputs.validate_failure_gate
+        run: node -e "const fs=require('fs');const p='src/content/news.json';const rows=JSON.parse(fs.readFileSync(p));rows.push(rows[0]);fs.writeFileSync(p,JSON.stringify(rows));"
       - run: npm run build
       - uses: actions/upload-pages-artifact@v4
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
