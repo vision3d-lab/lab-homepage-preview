@@ -36,12 +36,14 @@ The final source-to-rendered text audit passed all 457 captured text/profile/tim
 
 ## Executed automatic checks
 
-- [Preview deployment](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259921): passed.
-- [Project compatibility and recovery](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982): passed with **23 projects / 684 preserved files**, **970,664,747 published bytes**, and a conservative uncompressed tar bound of **973,017,600 bytes**.
-- [Recovery package](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37499259982/artifacts/11429047760): generated and uploaded, 943,460,123 bytes including archive wrapping. Retained for 30 days; regenerate it before a later production transition.
+- [Preview deployment](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37501885583): passed for the final implementation, commit `ed4b3895443f5616433a30f54ccef2728aed832e`.
+- [Project compatibility and recovery](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37501885633): passed with **23 projects / 684 preserved files**, **970,667,397 published bytes**, and a conservative uncompressed tar bound of **973,020,160 bytes**.
+- [Recovery package](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37501885633/artifacts/11429773204): generated and uploaded, 943,460,905 bytes including archive wrapping. Retained for 30 days; regenerate it before a later production transition.
 - Live preview: **11 routes + 277 asset/endpoint URLs** passed; every route has noindex. The final local homepage build is **19,190,453 bytes**.
 - Existing live projects: **23/23 entry URLs** passed; **348 asset/entry URLs** checked. All 50 LighthouseGS comparison images responded successfully. 14 failing asset URLs match pre-existing missing files; these are included in `live-project-check.json`. No existing project bytes were changed.
 - News/Home and publication addition examples rendered in an isolated candidate; duplicate news content failed validation. Sample records were never deployed.
+
+The final live-preview check again passed all 11 routes and 277 asset/endpoint URLs. The official repository remained at `5a918a0612b3efeb33d1b8851e7cb080f41cb336`, with Pages still using its existing legacy build from `main` at `/`. Production has not been switched; completed-preview approval remains the next gate.
 
 The optional `validate_failure_gate` workflow-dispatch input injects a duplicate record only inside a temporary runner. Its deliberately failing check must skip deployment, proving the publishing gate without committing broken content.
 
