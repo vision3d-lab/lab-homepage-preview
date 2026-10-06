@@ -44,3 +44,23 @@ The final source-to-rendered text audit passed all 457 captured text/profile/tim
 - News/Home and publication addition examples rendered in an isolated candidate; duplicate news content failed validation. Sample records were never deployed.
 
 The optional `validate_failure_gate` workflow-dispatch input injects a duplicate record only inside a temporary runner. Its deliberately failing check must skip deployment, proving the publishing gate without committing broken content.
+
+The [executed failure-gate proof](https://github.com/vision3d-lab/lab-homepage-preview/actions/runs/37500057374) rejected `news: duplicate id 62a7ffc60236`; artifact upload and the entire deploy job were **skipped**. The red result of this explicitly named test is expected; the previously deployed preview remained available.
+
+## Executed browser checks
+
+Chrome was operated through its native UI. Desktop rendering was compared with the source at the same window size; responsive emulation was checked at **768 × 844** and **390 × 844**. This is browser emulation, not physical-device or Safari testing.
+
+- Home: original logo, navy/white styling, content width, slide proportions and content order; automatic transitions, pause and slide selection.
+- Navigation: mobile open/close, Members submenu and Students navigation; desktop submenu, Tab traversal and Escape. Escape now restores the toggle's focus and the mobile button's accessible name.
+- Research: all six detail dialogs opened and closed with Escape; the close button returned focus to the originating button. Images and full descriptions rendered in the mobile dialog.
+- Resource: Sensor/Server category anchors moved to the respective sections; server details collapsed. The original category controls are section anchors, rather than hidden tab panels, and that behavior is retained.
+- Publications: year selection changed the page fragment and scrolled to the year; all original years/type groups remain.
+- Professor, News, Project, Students and Recruitment: content rendered in the browser, with responsive portraits, image/text rows and long text wrapping.
+- Contact: the original Google Maps embed loaded its UNIST campus marker and controls. Public email links retain their `mailto:` destinations.
+- SNS: official Instagram embeds loaded profile/post content; independent `Instagram에서 보기` fallback links and YouTube/GitHub links remained present.
+- Legacy `?page_id=1604` redirected to the preview's `/research/` path.
+- Existing MambaDance: the first muted video advanced beyond nine seconds; the FineDance comparison video advanced beyond sixteen seconds, then was paused.
+- Existing LighthouseGS: Dressing room and Bedroom changed the real/synthetic comparison images; dragging the comparison boundary visibly changed the image partition. All 50 dynamically used image URLs also passed the live asset check.
+
+Chrome's installed extension emitted `Unchecked runtime.lastError: The message port closed before a response was received` on source and preview pages, including the Google Maps frame. This is recorded separately from site checks; no site-script error was observed during the interactions above. Third-party map/Instagram availability continues to depend on those services and browser privacy settings.
